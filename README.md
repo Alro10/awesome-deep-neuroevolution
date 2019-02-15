@@ -5,7 +5,7 @@
 <img src="https://github.com/Alro10/awesome-deep-neuroevolution/blob/master/deepneuroevolution.png" alt="alt text" width="80%" height="60%">
 </p>
 
-A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning), the early paper by [OpenAI-Evolution Strategies](https://arxiv.org/abs/1703.03864)  the amazing work from **Uber AI Labs** [blog](https://eng.uber.com/deep-neuroevolution/)
+A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning), the early paper by [OpenAI-Evolution Strategies](https://arxiv.org/abs/1703.03864) and the amazing work from **Uber AI Labs** [blog](https://eng.uber.com/deep-neuroevolution/)
 
 **Pull requests and open issues are very welcome to add resources!**
 
