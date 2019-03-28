@@ -22,8 +22,7 @@ A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learnin
 | [On the Relationship Between the OpenAI Evolution Strategy and Stochastic Gradient Descent](https://arxiv.org/abs/1712.06564) | Xingwen Zhang, Jeff Clune, Kenneth O. Stanley | [blog](https://eng.uber.com/deep-neuroevolution/) | 2017 |
 | [ES Is More Than Just a Traditional Finite-Difference Approximator](https://arxiv.org/abs/1712.06568) | Joel Lehman, Jay Chen, Jeff Clune, Kenneth O. Stanley | [blog](https://eng.uber.com/deep-neuroevolution/) | 2017 |
 | [Playing Atari with Six Neurons](https://arxiv.org/abs/1806.01363) | Giuseppe Cuccu, Julian Togelius, Philippe Cudre-Mauroux | [[repo](https://github.com/giuse/DNE/tree/nips2018)]  | 2018, AAMAS2019 |
-| [Simple random search provides a competitive approach
-to reinforcement learning](https://arxiv.org/abs/1803.07055)| Horia Mania, Aurelia Guy, Benjamin Recht | [[repo](https://github.com/modestyachts/ARS)] | 2018 |
+| [Simple random search provides a competitive approach to reinforcement learning](https://arxiv.org/abs/1803.07055)| Horia Mania, Aurelia Guy, Benjamin Recht | [[repo](https://github.com/modestyachts/ARS)] | 2018 |
 | [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548) | Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le | [repocolab](https://colab.research.google.com/github/google-research/google-research/blob/master/evolution/regularized_evolution_algorithm/regularized_evolution.ipynb) | 2018, AAI2019 |
 | [Evolution-Guided Policy Gradient in Reinforcement Learning](https://arxiv.org/abs/1805.07917) | Shauharda Khadka, Kagan Tumer | [repo](https://github.com/ShawK91/erl_paper_nips18) | NIPS2018 |
 | [Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks](https://arxiv.org/abs/1810.06773)| Xiaodong Cui, Wei Zhang, Zoltán Tüske, Michael Picheny | not yet | NIPS2018 |
