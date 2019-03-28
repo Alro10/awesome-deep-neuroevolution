@@ -15,7 +15,7 @@ A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learnin
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-| [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever | [[repo](https://github.com/openai/evolution-strategies-starter)] [[blog](https://blog.openai.com/evolution-strategies/)] | 2017 |
+| [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever | [[repo](https://github.com/openai/evolution-strategies-starter)![github](github.jpg)] [[blog](https://blog.openai.com/evolution-strategies/)] | 2017 |
 | [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567) | Felipe Petroski Such, Vashisht Madhavan, Edoardo Conti, Joel Lehman, Kenneth O. Stanley, Jeff Clune | [[repo](https://github.com/uber-research/deep-neuroevolution)] [[blog](https://eng.uber.com/deep-neuroevolution/)]| 2017 |
 | [Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients](https://arxiv.org/abs/1712.06563) | Joel Lehman, Jay Chen, Jeff Clune, Kenneth O. Stanley | [repo](https://github.com/uber-research/safemutations) | 2017 |
 | [Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents](https://arxiv.org/abs/1712.06560)| Edoardo Conti, Vashisht Madhavan, Felipe Petroski Such, Joel Lehman, Kenneth O. Stanley, Jeff Clune | [repo](https://github.com/uber-research/deep-neuroevolution) | 2017, NIPS2018 |
