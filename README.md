@@ -29,6 +29,8 @@ A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learnin
 | [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://arxiv.org/abs/1810.01222) | Aloïs Pourchot, Olivier Sigaud | [repo](https://github.com/apourchot/CEM-RL)![github](github.jpg) | ICLR2019 |
 | [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | Thomas Elsken, Jan Hendrik Metzen, Frank Hutter | [openreview](https://openreview.net/forum?id=ByME42AqK7) | 2018, ICLR2019 |
 
+| [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569) | Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He  | not yet | 2019 |
+
 
 *Know of a recent, good paper? Send a pull request or open an issue!* :+1:
 
@@ -36,4 +38,4 @@ A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learnin
 
 * [Paper Repro: Deep Neuroevolution](https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66)
 * [Introduction to Genetic Algorithms — Including Example Code-Java](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
-* [Genetic Algorithm for 2D function-Matlab](https://github.com/Alro10/genetic-algorithm-optimization)[github](github.jpg) 
+* [Genetic Algorithm for 2D function-Matlab](https://github.com/Alro10/genetic-algorithm-optimization)[github](github.jpg)
