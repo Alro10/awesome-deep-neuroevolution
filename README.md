@@ -28,7 +28,6 @@ A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learnin
 | [Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks](https://arxiv.org/abs/1810.06773)| Xiaodong Cui, Wei Zhang, Zoltán Tüske, Michael Picheny | not yet | NIPS2018 |
 | [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://arxiv.org/abs/1810.01222) | Aloïs Pourchot, Olivier Sigaud | [repo](https://github.com/apourchot/CEM-RL)![github](github.jpg) | ICLR2019 |
 | [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | Thomas Elsken, Jan Hendrik Metzen, Frank Hutter | [openreview](https://openreview.net/forum?id=ByME42AqK7) | 2018, ICLR2019 |
-
 | [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569) | Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He  | not yet | 2019 |
 
 
