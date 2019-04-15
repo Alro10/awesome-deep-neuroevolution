@@ -9,7 +9,7 @@ A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learnin
 
 **Pull requests and open issues are very welcome to add resources!**
 
-
+A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866)
 
 ## Papers
 
