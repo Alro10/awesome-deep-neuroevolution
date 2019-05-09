@@ -30,6 +30,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | Thomas Elsken, Jan Hendrik Metzen, Frank Hutter | [openreview](https://openreview.net/forum?id=ByME42AqK7) | 2018, ICLR2019 |
 | [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569) | Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He  | not yet | 2019 |
 | [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z.pdf?origin=ppub) | Kenneth O. Stanley, Jeff Clune, Joel Lehman and Risto Miikkulainen | it is a letter | Nature machine intelligence January 2019|
+| [Guided evolutionary strategies: escaping the curse of dimensionality in random search](https://arxiv.org/abs/1806.10230) | Niru Maheswaranathan, Luke Metz, George Tucker, Dami Choi, Jascha Sohl-Dickstein| [repo](https://github.com/brain-research/guided-evolutionary-strategies) | ICML 2019|
 
 
 *Know of a recent, good paper? Send a pull request or open an issue!* :+1:
