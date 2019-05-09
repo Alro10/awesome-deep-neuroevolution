@@ -31,6 +31,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569) | Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He  | not yet | 2019 |
 | [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z.pdf?origin=ppub) | Kenneth O. Stanley, Jeff Clune, Joel Lehman and Risto Miikkulainen | it is a letter | Nature machine intelligence January 2019|
 | [Guided evolutionary strategies: escaping the curse of dimensionality in random search](https://arxiv.org/abs/1806.10230) | Niru Maheswaranathan, Luke Metz, George Tucker, Dami Choi, Jascha Sohl-Dickstein| [repo](https://github.com/brain-research/guided-evolutionary-strategies) ![github](github.jpg) | ICML 2019|
+| [Collaborative Evolutionary Reinforcement Learning](https://arxiv.org/abs/1905.00976v2) | Shauharda Khadka, Somdeb Majumdar, Tarek Nassar, Zach Dwiel, Evren Tumer, Santiago Miret, Yinyin Liu, Kagan Tumer | -------- | ICML2019 |
 
 
 *Know of a recent, good paper? Send a pull request or open an issue!* :+1:
