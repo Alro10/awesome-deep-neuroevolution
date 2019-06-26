@@ -9,7 +9,6 @@
 
 A collection of Deep Neuroevolution resources. Inspired by [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning), the early paper by [OpenAI-Evolution Strategies](https://arxiv.org/abs/1703.03864) and the amazing work from **Uber AI Labs** [blog](https://eng.uber.com/deep-neuroevolution/)
 
-**Pull requests and open issues are very welcome to add resources!**
 
 A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866)
 
@@ -37,8 +36,6 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Trust Region Evolution Strategies](https://pdfs.semanticscholar.org/6557/f9e7832dd127ab3ea2bcd0d1a6b924d4efc2.pdf) | Guoqing Liu et al. | not yet | AAAI 2019 |
 
 
-*Know of a recent, good paper? Send a pull request or open an issue!* :+1:
-
 ## Tutorials
 
 * [Paper Repro: Deep Neuroevolution](https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66)
@@ -52,3 +49,5 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 ## Researchers
 
 * [Kenneth O. Stanley](https://eng.uber.com/author/kenneth-stanley/)-Uber AI Labs.
+
+*Know of a recent, good paper? Send a pull request or open an issue!* :+1:
