@@ -20,7 +20,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 * [Researchers](#Researchers)
 
 
-## [Papers]()
+## Papers
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
@@ -44,17 +44,17 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Trust Region Evolution Strategies](https://pdfs.semanticscholar.org/6557/f9e7832dd127ab3ea2bcd0d1a6b924d4efc2.pdf) | Guoqing Liu et al. | not yet | AAAI 2019 |
 
 
-## [Tutorials]()
+## Tutorials
 
 * [Paper Repro: Deep Neuroevolution](https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66)
 * [Introduction to Genetic Algorithms — Including Example Code-Java](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 * [Genetic Algorithm for 2D function-Matlab](https://github.com/Alro10/genetic-algorithm-optimization)[github](github.jpg)
 
-## [Tutorials]()
+## Resources
 
 * [VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution](https://eng.uber.com/vine/)
 
-## [Researchers]()
+## Researchers
 
 * [Kenneth O. Stanley](https://eng.uber.com/author/kenneth-stanley/)-Uber AI Labs.
 
