@@ -43,6 +43,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Collaborative Evolutionary Reinforcement Learning](https://arxiv.org/abs/1905.00976v2) | Shauharda Khadka, Somdeb Majumdar, Tarek Nassar, Zach Dwiel, Evren Tumer, Santiago Miret, Yinyin Liu, Kagan Tumer | -------- | ICML2019 |
 | [Trust Region Evolution Strategies](https://pdfs.semanticscholar.org/6557/f9e7832dd127ab3ea2bcd0d1a6b924d4efc2.pdf) | Guoqing Liu et al. | not yet | AAAI 2019 |
 | [Deep Neuroevolution of Recurrent and Discrete World Models](https://arxiv.org/abs/1906.08857) | Sebastian Risi, Kenneth O. Stanley | [repo](https://github.com/sebastianrisi/ga-world-models) | 2019 |
+| [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807) | Cristian Bodnar, Ben Day, Pietro Lio' | not yet | AAAI2019 |
 
 
 ## Tutorials
