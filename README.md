@@ -58,6 +58,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 ## Researchers
 
-* [Kenneth O. Stanley](https://eng.uber.com/author/kenneth-stanley/)-Uber AI Labs.
+* [Kenneth O. Stanley](https://eng.uber.com/author/kenneth-stanley/)- Uber AI Labs.
+* [Jeff Clune](https://eng.uber.com/author/jeff-clune/)- Uber AI Labs.
 
 *Know of a recent, good paper? Send a pull request or open an issue!* :+1:
