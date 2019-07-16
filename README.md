@@ -47,7 +47,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [POET: open-ended coevolution of environments and their optimized solutions](https://www.researchgate.net/publication/334220089_POET_open-ended_coevolution_of_environments_and_their_optimized_solutions) | Rui Wang, Joel Lehman, Jeff Clune and Kenneth O. Stanley | not yet | 2019 |
 | [COEGAN: evaluating the coevolution effect in generative adversarial networks](https://dl.acm.org/citation.cfm?id=3321746) | V. Costa, N. Lourenço, J. Correia, and P. Machado |[repo](https://github.com/vfcosta/coegan) | GECCO 2019 |
 | [Evolution and self-teaching in neural networks: another comparison when the agent is more primitively conscious]() | Nam Le | not yet  | GECCO 2019 |
-
+| [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://arxiv.org/abs/1907.03840) | Rodrigo Canaan, Julian Togelius, Andy Nealen, Stefan Menzel | not yet | CoG 2019 |
 
 ## Tutorials
 
