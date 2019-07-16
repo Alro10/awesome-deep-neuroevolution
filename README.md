@@ -46,6 +46,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807) | Cristian Bodnar, Ben Day, Pietro Lio' | not yet | AAAI2019 |
 | [POET: open-ended coevolution of environments and their optimized solutions](https://www.researchgate.net/publication/334220089_POET_open-ended_coevolution_of_environments_and_their_optimized_solutions) | Rui Wang, Joel Lehman, Jeff Clune and Kenneth O. Stanley | not yet | 2019 |
 | [COEGAN: evaluating the coevolution effect in generative adversarial networks](https://dl.acm.org/citation.cfm?id=3321746) | V. Costa, N. Lourenço, J. Correia, and P. Machado |[repo](https://github.com/vfcosta/coegan) | GECCO 2019 |
+| [Evolution and self-teaching in neural networks: another comparison when the agent is more primitively conscious]() | Nam Le | not yet  | GECCO 2019 |
 
 
 ## Tutorials
