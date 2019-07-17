@@ -49,6 +49,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Evolution and self-teaching in neural networks: another comparison when the agent is more primitively conscious]() | Nam Le | not yet  | GECCO 2019 |
 | [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://arxiv.org/abs/1907.03840) | Rodrigo Canaan, Julian Togelius, Andy Nealen, Stefan Menzel | not yet | CoG 2019 |
 | [EPNAS: Efficient Progressive Neural Architecture Search](https://arxiv.org/abs/1907.04648) | Yanqi Zhou, Peng Wang, Sercan Arik, Haonan Yu, Syed Zawad, Feng Yan, Greg Diamos | not yet | 2019 |
+| [Acoustic Model Optimization Based On Evolutionary Stochastic Gradient Descent with Anchors for Automatic Speech Recognition](https://arxiv.org/abs/1907.04882)  | Xiaodong Cui, Michael Picheny (IBM Research)| not yet | Interspeech 2019 |
 
 ## Tutorials
 
