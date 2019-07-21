@@ -52,6 +52,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Acoustic Model Optimization Based On Evolutionary Stochastic Gradient Descent with Anchors for Automatic Speech Recognition](https://arxiv.org/abs/1907.04882)  | Xiaodong Cui, Michael Picheny (IBM Research)| not yet | Interspeech 2019 |
 | [Fast DENSER: Efficient Deep NeuroEvolution](https://www.researchgate.net/publication/332306893_Fast_DENSER_Efficient_Deep_NeuroEvolution) | Filipe Assunção, Nuno Lourenço, Penousal Machado, Bernardete Ribeiro | [repo](https://github.com/fillassuncao/f-denser) | EuroGP 2019 |
 | [AlphaStar: An Evolutionary Computation Perspective](https://arxiv.org/abs/1902.01724) | Kai Arulkumaran, Antoine Cully, Julian Togelius | not yet | GECCO 2019 |
+| [Automatic Design of Artificial Neural Networks for Gamma-Ray Detection](https://www.researchgate.net/publication/332977799_Automatic_Design_of_Artificial_Neural_Networks_for_Gamma-Ray_Detection) | Filipe Assunção, João Correia, Rúben Conceição, Mário Pimenta, Bernardo Tomé, Nuno Lourenço, Penousal Machado | not yet | 2019 |
 
 ## Tutorials
 
