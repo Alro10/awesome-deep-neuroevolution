@@ -54,6 +54,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [AlphaStar: An Evolutionary Computation Perspective](https://arxiv.org/abs/1902.01724) | Kai Arulkumaran, Antoine Cully, Julian Togelius | not yet | GECCO 2019 |
 | [Automatic Design of Artificial Neural Networks for Gamma-Ray Detection](https://www.researchgate.net/publication/332977799_Automatic_Design_of_Artificial_Neural_Networks_for_Gamma-Ray_Detection) | Filipe Assunção, João Correia, Rúben Conceição, Mário Pimenta, Bernardo Tomé, Nuno Lourenço, Penousal Machado | not yet | 2019 |
 | [Evolvability ES: Scalable and Direct Optimization of Evolvability](https://arxiv.org/abs/1907.06077) | Alexander Gajewski, Jeff Clune, Kenneth O. Stanley, Joel Lehman | [repo](https://github.com/uber-research/Evolvability-ES) | GECCO 2019 |
+| [Automated Neural Network Construction with Similarity Sensitive Evolutionary Algorithms](http://rvc.eng.miami.edu/Paper/2019/IRI19_EA.pdf) | Haiman Tian et al. | not yet| 2019 |
 
 ## Tutorials
 
