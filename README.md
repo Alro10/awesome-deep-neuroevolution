@@ -62,7 +62,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 - Genetic and evolutionary computation
   - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage)
--  Machine learning
+- Machine learning
   - [ICLR](https://iclr.cc/)  
 - Artificial intelligence  
   - [AAAI](https://www.aaai.org/)
