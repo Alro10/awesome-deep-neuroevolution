@@ -58,6 +58,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Evolvability ES: Scalable and Direct Optimization of Evolvability](https://arxiv.org/abs/1907.06077) | Alexander Gajewski, Jeff Clune, Kenneth O. Stanley, Joel Lehman | [repo](https://github.com/uber-research/Evolvability-ES) | GECCO 2019 |
 | [Towards continual reinforcement learning through evolutionary meta-learning](https://dl.acm.org/citation.cfm?id=3322044) | Djordje Grbic and Sebastian Risi  | not yet  | GECCO 2019|
 | [Automated Neural Network Construction with Similarity Sensitive Evolutionary Algorithms](http://rvc.eng.miami.edu/Paper/2019/IRI19_EA.pdf) | Haiman Tian et al. | not yet| 2019 |
+| [POET: open-ended coevolution of environments and their optimized solutions](https://www.researchgate.net/publication/334220089_POET_open-ended_coevolution_of_environments_and_their_optimized_solutions) | Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley | not yet  | GECCO 2019 |
 
 ## Conferences
 
