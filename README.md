@@ -46,7 +46,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Trust Region Evolution Strategies](https://pdfs.semanticscholar.org/6557/f9e7832dd127ab3ea2bcd0d1a6b924d4efc2.pdf) | Guoqing Liu et al. | not yet | AAAI 2019 |
 | [Deep Neuroevolution of Recurrent and Discrete World Models](https://arxiv.org/abs/1906.08857) | Sebastian Risi, Kenneth O. Stanley | [repo](https://github.com/sebastianrisi/ga-world-models) | 2019 |
 | [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807) | Cristian Bodnar, Ben Day, Pietro Lio' | not yet | AAAI 2019 |
-| [POET: open-ended coevolution of environments and their optimized solutions](https://www.researchgate.net/publication/334220089_POET_open-ended_coevolution_of_environments_and_their_optimized_solutions) | Rui Wang, Joel Lehman, Jeff Clune and Kenneth O. Stanley | not yet | 2019 |
+| [POET: open-ended coevolution of environments and their optimized solutions](https://www.researchgate.net/publication/334220089_POET_open-ended_coevolution_of_environments_and_their_optimized_solutions) | Rui Wang, Joel Lehman, Jeff Clune and Kenneth O. Stanley | not yet | GECCO 2019 |
 | [COEGAN: evaluating the coevolution effect in generative adversarial networks](https://dl.acm.org/citation.cfm?id=3321746) | V. Costa, N. Lourenço, J. Correia, and P. Machado |[repo](https://github.com/vfcosta/coegan) | GECCO 2019 |
 | [Evolution and self-teaching in neural networks: another comparison when the agent is more primitively conscious]() | Nam Le | not yet  | GECCO 2019 |
 | [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://arxiv.org/abs/1907.03840) | Rodrigo Canaan, Julian Togelius, Andy Nealen, Stefan Menzel | not yet | CoG 2019 |
@@ -58,7 +58,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Evolvability ES: Scalable and Direct Optimization of Evolvability](https://arxiv.org/abs/1907.06077) | Alexander Gajewski, Jeff Clune, Kenneth O. Stanley, Joel Lehman | [repo](https://github.com/uber-research/Evolvability-ES) | GECCO 2019 |
 | [Towards continual reinforcement learning through evolutionary meta-learning](https://dl.acm.org/citation.cfm?id=3322044) | Djordje Grbic and Sebastian Risi  | not yet  | GECCO 2019|
 | [Automated Neural Network Construction with Similarity Sensitive Evolutionary Algorithms](http://rvc.eng.miami.edu/Paper/2019/IRI19_EA.pdf) | Haiman Tian et al. | not yet| 2019 |
-| [POET: open-ended coevolution of environments and their optimized solutions](https://www.researchgate.net/publication/334220089_POET_open-ended_coevolution_of_environments_and_their_optimized_solutions) | Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley | not yet  | GECCO 2019 |
+
 
 ## Conferences
 
