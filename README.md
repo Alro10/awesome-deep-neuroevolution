@@ -62,7 +62,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995) | Adrien Ecoffet, Joost Huizinga, Joel Lehman, Kenneth O. Stanley, Jeff Clune | -------- | 2019 |
 | [Culturally Evolved GANs for Generating Fake Stroke Faces](https://www.researchgate.net/publication/334811480_Culturally_Evolved_GANs_for_Generating_Fake_Stroke_Faces) | Kaitav Mehta et al. | not yet  | ICTS4eHealth'19 |
 | [An Evolution Strategy with Progressive Episode Lengths for Playing Games](https://ml.informatik.uni-freiburg.de/papers/19-IJCAI_PEL.pdf) | Lior Fuks, Noor Awad , Frank Hutter and Marius Lindauer | [code](https://github.com/liorfuks/meta_pop) | IJCAI 2019 |
-| ----- | ------- | -------- | ---- |
+| [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](https://arxiv.org/abs/1907.11788) | Chao Gao, Bilal Kartal, Pablo Hernandez-Leal, Matthew E. Taylor | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 
 ## Conferences
