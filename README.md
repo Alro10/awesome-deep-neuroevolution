@@ -63,7 +63,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Culturally Evolved GANs for Generating Fake Stroke Faces](https://www.researchgate.net/publication/334811480_Culturally_Evolved_GANs_for_Generating_Fake_Stroke_Faces) | Kaitav Mehta et al. | not yet  | ICTS4eHealth'19 |
 | [An Evolution Strategy with Progressive Episode Lengths for Playing Games](https://ml.informatik.uni-freiburg.de/papers/19-IJCAI_PEL.pdf) | Lior Fuks, Noor Awad , Frank Hutter and Marius Lindauer | [code](https://github.com/liorfuks/meta_pop) | IJCAI 2019 |
 | [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](https://arxiv.org/abs/1907.11788) | Chao Gao, Bilal Kartal, Pablo Hernandez-Leal, Matthew E. Taylor | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [A Knee-Guided Evolutionary Algorithm for Compressing Deep Neural Networks](https://www.researchgate.net/publication/334782953_A_Knee-Guided_Evolutionary_Algorithm_for_Compressing_Deep_Neural_Networks) | Yao Zhou et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
