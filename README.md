@@ -65,6 +65,9 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](https://arxiv.org/abs/1907.11788) | Chao Gao, Bilal Kartal, Pablo Hernandez-Leal, Matthew E. Taylor | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
