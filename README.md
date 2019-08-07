@@ -91,6 +91,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 * [VINE: An Open Source Interactive Data Visualization Tool for Neuroevolution](https://eng.uber.com/vine/) by Uber AI Labs.
 * [EvoGrad: A Lightweight Library for Gradient-Based Evolution](https://eng.uber.com/evograd/) by Uber AI Labs.
+* [POET](https://eng.uber.com/poet-open-ended-deep-learning/) by Uber AI Labs.
 
 ## Researchers
 
