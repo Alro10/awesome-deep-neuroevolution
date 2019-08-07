@@ -37,7 +37,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548) | Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le | [repocolab](https://colab.research.google.com/github/google-research/google-research/blob/master/evolution/regularized_evolution_algorithm/regularized_evolution.ipynb) | 2018, AAAI 2019 |
 | [Evolution-Guided Policy Gradient in Reinforcement Learning](https://arxiv.org/abs/1805.07917) | Shauharda Khadka, Kagan Tumer | [repo](https://github.com/ShawK91/erl_paper_nips18) ![github](github.jpg)| NIPS 2018 |
 | [Evolutionary Stochastic Gradient Descent for Optimization of Deep Neural Networks](https://arxiv.org/abs/1810.06773)| Xiaodong Cui, Wei Zhang, Zoltán Tüske, Michael Picheny | not yet | NIPS 2018 |
-| ----- | ------- | -------- | ---- |
+| [Experimental Evaluation of Metaheuristic Optimization of Gradients as an Alternative to Backpropagation](https://ieeexplore.ieee.org/abstract/document/8780709) | Oleksandr Zavalnyi et al. | -------- | ---- |
 | [CEM-RL: Combining evolutionary and gradient-based methods for policy search](https://arxiv.org/abs/1810.01222) | Aloïs Pourchot, Olivier Sigaud | [repo](https://github.com/apourchot/CEM-RL)![github](github.jpg) | ICLR 2019 |
 | [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | Thomas Elsken, Jan Hendrik Metzen, Frank Hutter | [openreview](https://openreview.net/forum?id=ByME42AqK7) | 2018, ICLR2019 |
 | [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569) | Saining Xie, Alexander Kirillov, Ross Girshick, Kaiming He  | not yet | 2019 |
