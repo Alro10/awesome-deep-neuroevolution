@@ -1,7 +1,7 @@
 # awesome-deep-neuroevolution
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![GitHubstars](https://img.shields.io/github/stars/Alro10/awesome-deep-neuroevolution.svg?style=plastic)
+
 
 
 <p align="center">
@@ -68,8 +68,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
+
 
 ## Conferences
 
