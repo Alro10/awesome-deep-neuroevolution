@@ -65,7 +65,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [An Evolution Strategy with Progressive Episode Lengths for Playing Games](https://ml.informatik.uni-freiburg.de/papers/19-IJCAI_PEL.pdf) | Lior Fuks, Noor Awad , Frank Hutter and Marius Lindauer | [code](https://github.com/liorfuks/meta_pop) | IJCAI 2019 |
 | [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](https://arxiv.org/abs/1907.11788) | Chao Gao, Bilal Kartal, Pablo Hernandez-Leal, Matthew E. Taylor | not yet | 2019 |
 | [A Knee-Guided Evolutionary Algorithm for Compressing Deep Neural Networks](https://www.researchgate.net/publication/334782953_A_Knee-Guided_Evolutionary_Algorithm_for_Compressing_Deep_Neural_Networks) | Yao Zhou et al. | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Multi-task Deep Reinforcement Learning with Evolutionary Algorithm and Policy Gradients Method in 3D Control Tasks](https://www.researchgate.net/publication/334809110_Multi-task_Deep_Reinforcement_Learning_with_Evolutionary_Algorithm_and_Policy_Gradients_Method_in_3D_Control_Tasks) | Shota Imai et al. | not yet | In book: Big Data, Cloud Computing, and Data Science Engineering 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 
