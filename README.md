@@ -68,8 +68,11 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Multi-task Deep Reinforcement Learning with Evolutionary Algorithm and Policy Gradients Method in 3D Control Tasks](https://www.researchgate.net/publication/334809110_Multi-task_Deep_Reinforcement_Learning_with_Evolutionary_Algorithm_and_Policy_Gradients_Method_in_3D_Control_Tasks) | Shota Imai et al. | not yet | In book: Big Data, Cloud Computing, and Data Science Engineering 2019 |
 | [Evolutionary deep learning](https://open.uct.ac.za/bitstream/handle/11427/30357/thesis_sci_2019_dufourq_emmanuel.pdf?sequence=1) | E Dufourq | not | PhD thesis 2019 |
 | [Guiding Evolutionary Strategies with Off-Policy Actor-Critic](https://robintyh1.github.io/papers/Tang2019CEMACER.pdf) | Yunhao Tang | not yet | 2019 |
+| [Construction of Macro Actions for Deep Reinforcement Learning](https://arxiv.org/abs/1908.01478) | Yi-Hsiang Chang, Kuan-Yu Chang, Henry Kuo, Chun-Yi Lee | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+
 
 
 ## Conferences
