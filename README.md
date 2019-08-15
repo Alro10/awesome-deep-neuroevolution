@@ -69,7 +69,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Evolutionary deep learning](https://open.uct.ac.za/bitstream/handle/11427/30357/thesis_sci_2019_dufourq_emmanuel.pdf?sequence=1) | E Dufourq | not | PhD thesis 2019 |
 | [Guiding Evolutionary Strategies with Off-Policy Actor-Critic](https://robintyh1.github.io/papers/Tang2019CEMACER.pdf) | Yunhao Tang | not yet | 2019 |
 | [Construction of Macro Actions for Deep Reinforcement Learning](https://arxiv.org/abs/1908.01478) | Yi-Hsiang Chang, Kuan-Yu Chang, Henry Kuo, Chun-Yi Lee | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Fast Automatic Optimisation of CNN Architectures for Image Classification Using Genetic Algorithm](https://ieeexplore.ieee.org/abstract/document/8790197) | Ali Bakhshi, et al. | not yet | CEC 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 
