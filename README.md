@@ -64,13 +64,13 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Culturally Evolved GANs for Generating Fake Stroke Faces](https://www.researchgate.net/publication/334811480_Culturally_Evolved_GANs_for_Generating_Fake_Stroke_Faces) | Kaitav Mehta et al. | not yet  | ICTS4eHealth'19 |
 | [An Evolution Strategy with Progressive Episode Lengths for Playing Games](https://ml.informatik.uni-freiburg.de/papers/19-IJCAI_PEL.pdf) | Lior Fuks, Noor Awad , Frank Hutter and Marius Lindauer | [code](https://github.com/liorfuks/meta_pop) | IJCAI 2019 |
 | [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](https://arxiv.org/abs/1907.11788) | Chao Gao, Bilal Kartal, Pablo Hernandez-Leal, Matthew E. Taylor | not yet | 2019 |
-| [A Knee-Guided Evolutionary Algorithm for Compressing Deep Neural Networks](https://www.researchgate.net/publication/334782953_A_Knee-Guided_Evolutionary_Algorithm_for_Compressing_Deep_Neural_Networks) | Yao Zhou et al. | not yet | 2019 |
+| [A Knee-Guided Evolutionary Algorithm for Compressing Deep Neural Networks](https://www.researchgate.net/publication/334782953_A_Knee-Guided_Evolutionary_Algorithm_for_Compressing_Deep_Neural_Networks) | Yao Zhou, et al. | not yet | 2019 |
 | [Multi-task Deep Reinforcement Learning with Evolutionary Algorithm and Policy Gradients Method in 3D Control Tasks](https://www.researchgate.net/publication/334809110_Multi-task_Deep_Reinforcement_Learning_with_Evolutionary_Algorithm_and_Policy_Gradients_Method_in_3D_Control_Tasks) | Shota Imai et al. | not yet | In book: Big Data, Cloud Computing, and Data Science Engineering 2019 |
 | [Evolutionary deep learning](https://open.uct.ac.za/bitstream/handle/11427/30357/thesis_sci_2019_dufourq_emmanuel.pdf?sequence=1) | E Dufourq | not | PhD thesis 2019 |
 | [Guiding Evolutionary Strategies with Off-Policy Actor-Critic](https://robintyh1.github.io/papers/Tang2019CEMACER.pdf) | Yunhao Tang | not yet | 2019 |
 | [Construction of Macro Actions for Deep Reinforcement Learning](https://arxiv.org/abs/1908.01478) | Yi-Hsiang Chang, Kuan-Yu Chang, Henry Kuo, Chun-Yi Lee | not yet | 2019 |
 | [Fast Automatic Optimisation of CNN Architectures for Image Classification Using Genetic Algorithm](https://ieeexplore.ieee.org/abstract/document/8790197) | Ali Bakhshi, et al. | not yet | CEC 2019 |
-| ----- | ------- | -------- | ---- |
+| [Memetic Evolution Strategy for Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8789935) | Xinghua Qu, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 
 
