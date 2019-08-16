@@ -72,8 +72,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Fast Automatic Optimisation of CNN Architectures for Image Classification Using Genetic Algorithm](https://ieeexplore.ieee.org/abstract/document/8790197) | Ali Bakhshi, et al. | not yet | CEC 2019 |
 | [Memetic Evolution Strategy for Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8789935) | Xinghua Qu, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
-
-
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
