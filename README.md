@@ -74,6 +74,9 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Epigenetic evolution of deep convolutional models](http://www.cse.unsw.edu.au/~blair/pubs/2019HadjiivanovBlairCEC.pdf) | Alexander Hadjiivanov and Alan Blair | not yet | CEC 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+
 
 ## Conferences
 
