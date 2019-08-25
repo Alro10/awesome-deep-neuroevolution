@@ -73,7 +73,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Memetic Evolution Strategy for Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/8789935) | Xinghua Qu, et al. | not yet | 2019 |
 | [Epigenetic evolution of deep convolutional models](http://www.cse.unsw.edu.au/~blair/pubs/2019HadjiivanovBlairCEC.pdf) | Alexander Hadjiivanov and Alan Blair | not yet | CEC 2019 |
 | [A CROSS-DATA SET EVALUATION OF GENETICALLY EVOLVED NEURAL NETWORK ARCHITECTURES](http://jbox.gmu.edu/bitstream/handle/1920/11479/Gelman_thesis_2019.pdf?sequence=1&isAllowed=y) | Ben Gelman | not yet | Master Thesis 2019 |
-| ----- | ------- | -------- | ---- |
+| [Architecture Search by Estimation of Network Structure Distributions](https://arxiv.org/pdf/1908.06886.pdf) | Anton Muravev, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 
