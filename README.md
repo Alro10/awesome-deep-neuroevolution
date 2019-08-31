@@ -76,6 +76,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Architecture Search by Estimation of Network Structure Distributions](https://arxiv.org/pdf/1908.06886.pdf) | Anton Muravev, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 
 ## Conferences
