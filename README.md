@@ -76,7 +76,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Architecture Search by Estimation of Network Structure Distributions](https://arxiv.org/pdf/1908.06886.pdf) | Anton Muravev, et al. | not yet | 2019 |
 | [Evolving unsupervised neural networks for Slither.io](https://dl.acm.org/citation.cfm?id=3341837) | 	Mitchell Miller, et al. | [Slither.io](http://slither.io/) | FDG 2019 |
 | [Scalable Reinforcement-Learning-Based Neural Architecture Search for Cancer Deep Learning Research](https://arxiv.org/pdf/1909.00311.pdf) | Prasanna Balaprakash and Romain Egele, et al. | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Using Neuroevolution for Predicting Mobile Marketing Conversion](https://rd.springer.com/chapter/10.1007/978-3-030-30244-3_31) | Pedro José Pereira, et al. | not yet | LNCS, volume 11805 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
