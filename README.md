@@ -78,7 +78,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Scalable Reinforcement-Learning-Based Neural Architecture Search for Cancer Deep Learning Research](https://arxiv.org/pdf/1909.00311.pdf) | Prasanna Balaprakash and Romain Egele, et al. | not yet | 2019 |
 | [Using Neuroevolution for Predicting Mobile Marketing Conversion](https://rd.springer.com/chapter/10.1007/978-3-030-30244-3_31) | Pedro José Pereira, et al. | not yet | LNCS, volume 11805 |
 |[A Restart-based Rank-1 Evolution Strategy for Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0295.pdf) | Zefeng Chen, et al. | not yet  | IJCAI-19 |
-| ----- | ------- | -------- | ---- |
+| [Evolution of Kiting Behavior in a Two Player Combat Problem](http://ieee-cog.org/papers/paper_116.pdf) | Pavlos Androulakakis and Zachariah E. Fuchs | not yet | IEEE COG 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
