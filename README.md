@@ -95,6 +95,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 - Artificial intelligence  
   * [AAAI](https://www.aaai.org/)
   * [IJCAI](https://www.ijcai.org/)
+- Games
+  * [IEEE COG](http://ieee-cog.org/)
 
 
 ## Tutorials
