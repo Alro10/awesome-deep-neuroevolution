@@ -82,6 +82,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Learning to Select Mates in Evolving Non-playable Characters](http://ieee-cog.org/papers/paper_66.pdf) | Dylan R. Ashley, et al. | not yet  | IEEE COG 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 
 
