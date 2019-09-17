@@ -80,10 +80,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 |[A Restart-based Rank-1 Evolution Strategy for Reinforcement Learning](https://www.ijcai.org/proceedings/2019/0295.pdf) | Zefeng Chen, et al. | not yet  | IJCAI-19 |
 | [Evolution of Kiting Behavior in a Two Player Combat Problem](http://ieee-cog.org/papers/paper_116.pdf) | Pavlos Androulakakis and Zachariah E. Fuchs | not yet | IEEE COG 2019 |
 | [Learning to Select Mates in Evolving Non-playable Characters](http://ieee-cog.org/papers/paper_66.pdf) | Dylan R. Ashley, et al. | not yet  | IEEE COG 2019 |
-| ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
+| [MULTI-SPECIES EVOLUTIONARY ALGORITHMS FOR COMPLEX OPTIMISATION PROBLEMS](https://etheses.bham.ac.uk/id/eprint/8893/1/Lu2018PhD.pdf) | XIAOFEN LU | not yet | PhD thesis at University of Birmingham |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
