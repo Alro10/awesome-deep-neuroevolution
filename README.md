@@ -84,7 +84,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [ATTRACTION-REPULSION ACTOR-CRITIC FOR CONTINUOUS CONTROL REINFORCEMENT LEARNING](https://arxiv.org/pdf/1909.07543.pdf) | Thang Doan and Bogdan Mazoure, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
-
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
