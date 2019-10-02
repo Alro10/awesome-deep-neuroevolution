@@ -86,7 +86,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [An Empirical Exploration of Deep Recurrent Connections and Memory Cells Using Neuro-Evolution](https://arxiv.org/pdf/1909.09502.pdf) | Travis J. Desell, et al.  | [repo](https://github.com/travisdesell/exact) | 2019 |
 | [THE ANT SWARM NEURO-EVOLUTION PROCEDURE FOR OPTIMIZING RECURRENT NETWORKS](https://arxiv.org/pdf/1909.11849.pdf) | AbdElRahman A. ElSaid, et al. | not yet | 2019 |
 | [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8843933) | ZENGHAO CHAI, et al. | not yet | IEEE Access 2019 |
-| ----- | ------- | -------- | ---- |
+| [Learning Task-specific Activation Functions using Genetic Programming](https://pdfs.semanticscholar.org/4be0/701f2d2a34ffb746595bcb251c091ff4a702.pdf) | Mina Basirat and Peter M. Roth | [repo](https://github.com/jliphard/DeepEvolve) | 2019 |
 | ----- | ------- | -------- | ---- |
 
 ## Conferences
