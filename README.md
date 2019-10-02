@@ -85,7 +85,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Comparative Study of Neuro-Evolution Algorithms in Reinforcement Learning for Self-Driving Cars](https://www.dpublication.com/wp-content/uploads/2019/07/6-F186.pdf) |  Ahmed AbuZekry, et al. | not yet | 2019 |
 | [An Empirical Exploration of Deep Recurrent Connections and Memory Cells Using Neuro-Evolution](https://arxiv.org/pdf/1909.09502.pdf) | Travis J. Desell, et al.  | [repo](https://github.com/travisdesell/exact) | 2019 |
 | [THE ANT SWARM NEURO-EVOLUTION PROCEDURE FOR OPTIMIZING RECURRENT NETWORKS](https://arxiv.org/pdf/1909.11849.pdf) | AbdElRahman A. ElSaid, et al. | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8843933) | ZENGHAO CHAI, et al. | not yet | IEEE Access 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 
