@@ -86,6 +86,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [An Empirical Exploration of Deep Recurrent Connections and Memory Cells Using Neuro-Evolution](https://arxiv.org/pdf/1909.09502.pdf) | Travis J. Desell, et al.  | [repo](https://github.com/travisdesell/exact) | 2019 |
 | [THE ANT SWARM NEURO-EVOLUTION PROCEDURE FOR OPTIMIZING RECURRENT NETWORKS](https://arxiv.org/pdf/1909.11849.pdf) | AbdElRahman A. ElSaid, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
