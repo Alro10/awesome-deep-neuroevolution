@@ -88,6 +88,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8843933) | ZENGHAO CHAI, et al. | not yet | IEEE Access 2019 |
 | [Learning Task-specific Activation Functions using Genetic Programming](https://pdfs.semanticscholar.org/4be0/701f2d2a34ffb746595bcb251c091ff4a702.pdf) | Mina Basirat and Peter M. Roth | [repo](https://github.com/jliphard/DeepEvolve) | 2019 |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
