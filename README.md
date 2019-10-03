@@ -88,7 +88,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Correlation Analysis-Based Neural Network Self-Organizing Genetic Evolutionary Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8843933) | ZENGHAO CHAI, et al. | not yet | IEEE Access 2019 |
 | [Learning Task-specific Activation Functions using Genetic Programming](https://pdfs.semanticscholar.org/4be0/701f2d2a34ffb746595bcb251c091ff4a702.pdf) | Mina Basirat and Peter M. Roth | [repo](https://github.com/jliphard/DeepEvolve) | 2019 |
 | [A HYBRID NEURAL NETWORK AND GENETIC PROGRAMMING APPROACH TO THE AUTOMATIC CONSTRUCTION OF COMPUTER VISION SYSTEMS](http://repository.essex.ac.uk/25359/1/Cameron_MRES_Thesis.pdf) | Cameron P. Kyle-Davidson | not | Master Thesis 2019 |
-| ----- | ------- | -------- | ---- |
+| [Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance](https://arxiv.org/pdf/1902.03142.pdf) | Ethan C. Jackson and Mark Daley | [repo](https://github.com/ethancjackson/NoveltySearchLevenshtein) | Submitted to GECCO 2019 |
 | ----- | ------- | -------- | ---- |
 
 ## Conferences
