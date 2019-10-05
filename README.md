@@ -90,6 +90,9 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [A HYBRID NEURAL NETWORK AND GENETIC PROGRAMMING APPROACH TO THE AUTOMATIC CONSTRUCTION OF COMPUTER VISION SYSTEMS](http://repository.essex.ac.uk/25359/1/Cameron_MRES_Thesis.pdf) | Cameron P. Kyle-Davidson | not | Master Thesis 2019 |
 | [Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance](https://arxiv.org/pdf/1902.03142.pdf) | Ethan C. Jackson and Mark Daley | [repo](https://github.com/ethancjackson/NoveltySearchLevenshtein) | Submitted to GECCO 2019 |
 | [Algebraic Neural Architecture Representation, Evolutionary Neural Architecture Search, and Novelty Search in Deep Reinforcement Learning](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=8458&context=etd) | Ethan C. Jackson | not  | PhD Thesis 2019 |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
