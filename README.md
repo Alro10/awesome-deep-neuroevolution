@@ -91,10 +91,10 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance](https://arxiv.org/pdf/1902.03142.pdf) | Ethan C. Jackson and Mark Daley | [repo](https://github.com/ethancjackson/NoveltySearchLevenshtein) | Submitted to GECCO 2019 |
 | [Algebraic Neural Architecture Representation, Evolutionary Neural Architecture Search, and Novelty Search in Deep Reinforcement Learning](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=8458&context=etd) | Ethan C. Jackson | not  | PhD Thesis 2019 |
 | [GACNN: TRAINING DEEP CONVOLUTIONAL NEURAL NETWORKS WITH GENETIC ALGORITHM](https://arxiv.org/pdf/1909.13354.pdf) | Parsa Esfahanian and Mohammad Akhavan | not yet  | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Implicit Multi-Objective Coevolutionary Algorithms](https://atrium2.lib.uoguelph.ca/xmlui/bitstream/handle/10214/17493/Akinola_Adefunke_201910_Msc.pdf?sequence=5&isAllowed=y) | Adefunke Akinola | not | Master Thesis 2019 |
 | ----- | ------- | -------- | ---- |
 
-## Conferences
+## Conferenceses
 
 - Genetic and evolutionary computation
   * [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage)
