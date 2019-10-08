@@ -94,7 +94,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Implicit Multi-Objective Coevolutionary Algorithms](https://atrium2.lib.uoguelph.ca/xmlui/bitstream/handle/10214/17493/Akinola_Adefunke_201910_Msc.pdf?sequence=5&isAllowed=y) | Adefunke Akinola | not | Master Thesis 2019 |
 | ----- | ------- | -------- | ---- |
 
-## Conferenceses
+## Conferences
 
 - Genetic and evolutionary computation
   * [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage)
