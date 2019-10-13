@@ -93,7 +93,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [GACNN: TRAINING DEEP CONVOLUTIONAL NEURAL NETWORKS WITH GENETIC ALGORITHM](https://arxiv.org/pdf/1909.13354.pdf) | Parsa Esfahanian and Mohammad Akhavan | not yet  | 2019 |
 | [Implicit Multi-Objective Coevolutionary Algorithms](https://atrium2.lib.uoguelph.ca/xmlui/bitstream/handle/10214/17493/Akinola_Adefunke_201910_Msc.pdf?sequence=5&isAllowed=y) | Adefunke Akinola | not | Master Thesis 2019 |
 | [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/pdf/1910.01215.pdf) | Xingyou Song, et al. | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Empirical study on the performance of Neuro Evolution of Augmenting Topologies (NEAT)](http://ailab.ijs.si/dunja/SiKDD2019/Papers/Vicic_Final.pdf) | Domen Vake, et al. | [repo](https://github.com/VakeDomen/NEAT-driving) | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
