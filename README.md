@@ -95,6 +95,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/pdf/1910.01215.pdf) | Xingyou Song, et al. | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
