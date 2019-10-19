@@ -97,8 +97,6 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Improving Gradient Estimation in Evolutionary Strategies With Past Descent Directions](https://arxiv.org/pdf/1910.05268.pdf) | Florian Meier and Asier Mujika | not yet | 2019 |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
 
 ## Conferences
 
