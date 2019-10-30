@@ -95,7 +95,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/pdf/1910.01215.pdf) | Xingyou Song, et al. | not yet | 2019 |
 | [Empirical study on the performance of Neuro Evolution of Augmenting Topologies (NEAT)](http://ailab.ijs.si/dunja/SiKDD2019/Papers/Vicic_Final.pdf) | Domen Vake, et al. | [repo](https://github.com/VakeDomen/NEAT-driving) | 2019 |
 | [Improving Gradient Estimation in Evolutionary Strategies With Past Descent Directions](https://arxiv.org/pdf/1910.05268.pdf) | Florian Meier and Asier Mujika | not yet | 2019 |
-| ----- | ------- | -------- | ---- |
+| [Efficient Decoupled Neural Architecture Search by Structure and Operation Sampling](https://arxiv.org/pdf/1910.10397.pdf) | Heung-Chang Lee, et al. | [repo](https://github.com/logue311/EDNAS) | 2019 |
 | ----- | ------- | -------- | ---- |
 
 ## Conferences
