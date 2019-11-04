@@ -98,8 +98,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Improving Gradient Estimation in Evolutionary Strategies With Past Descent Directions](https://arxiv.org/pdf/1910.05268.pdf) | Florian Meier and Asier Mujika | not yet | 2019 |
 | [Efficient Decoupled Neural Architecture Search by Structure and Operation Sampling](https://arxiv.org/pdf/1910.10397.pdf) | Heung-Chang Lee, et al. | [repo](https://github.com/logue311/EDNAS) | 2019 |
 | ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
+
 
 ## Conferences
 
