@@ -26,6 +26,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 | [Neuroevolutive Algorithms for Learning Gaits in Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8852635) | Pablo Reyes, et al. | not yet | 2019 |
 | [Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control](https://arxiv.org/pdf/1910.12824.pdf) | Jörg K.H. Franke and Gregor Koehler, et al. | not yet | 2019 |
 | [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever | [[repo](https://github.com/openai/evolution-strategies-starter)]![github](github.jpg) [[blog](https://blog.openai.com/evolution-strategies/)] | 2017 |
