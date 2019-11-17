@@ -26,7 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-| [Culturally Evolved GANs for generating Fake Stroke Faces] | Kaitav Mehta, et al. | code not yet | 2019 |
+| [Culturally Evolved GANs for generating Fake Stroke Faces](https://www.researchgate.net/profile/Kaitav_Mehta/publication/334811480_Culturally_Evolved_GANs_for_Generating_Fake_Stroke_Faces/links/5db4dbbf299bf111d4d04521/Culturally-Evolved-GANs-for-Generating-Fake-Stroke-Faces.pdf) | Kaitav Mehta, et al. | code not yet | 2019 |
 | [Neuroevolutionary Training of Deep Convolutional Generative Adversarial Networks](https://www.researchgate.net/publication/336832734_Neuroevolutionary_Training_of_Deep_Convolutional_GANspdf) | Kaitav Mehta | not | Master Thesis 2019 |
 | [UMA ESTRUTURA PARA EXECUCAO DE REDES NEURAIS EVOLUTIVAS NA GPU](https://www.cos.ufrj.br/uploadfile/publicacao/2932.pdf) | Jorge Rama Krsna Mandoju | not | Master Thesis 2019 |
 | [An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue](https://arxiv.org/abs/1909.04430) | Norman Packard, et al. | not yet | 2019 |
