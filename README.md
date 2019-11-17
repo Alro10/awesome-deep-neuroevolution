@@ -27,7 +27,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
+| [Neuroevolutionary Training of Deep Convolutional Generative Adversarial Networks](https://www.researchgate.net/publication/336832734_Neuroevolutionary_Training_of_Deep_Convolutional_GANspdf) | Kaitav Mehta | not | Master Thesis 2019 |
 | [UMA ESTRUTURA PARA EXECUCAO DE REDES NEURAIS EVOLUTIVAS NA GPU](https://www.cos.ufrj.br/uploadfile/publicacao/2932.pdf) | Jorge Rama Krsna Mandoju | not | Master Thesis 2019 |
 | [An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue](https://arxiv.org/abs/1909.04430) | Norman Packard, et al. | not yet | 2019 |
 | [Deep neural network architecture search using network morphism](https://ieeexplore.ieee.org/abstract/document/8864624) | Arkadiusz Kwasigroch, et al. | not yet | 2019 |
