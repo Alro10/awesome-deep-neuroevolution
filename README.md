@@ -33,6 +33,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Deep neural network architecture search using network morphism](https://ieeexplore.ieee.org/abstract/document/8864624) | Arkadiusz Kwasigroch, et al. | not yet | 2019 |
 | [Neuroevolutive Algorithms for Learning Gaits in Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8852635) | Pablo Reyes, et al. | not yet | 2019 |
 | [Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control](https://arxiv.org/pdf/1910.12824.pdf) | Jörg K.H. Franke and Gregor Koehler, et al. | not yet | 2019 |
+| [Efficient Decoupled Neural Architecture Search by Structure and Operation Sampling](https://arxiv.org/pdf/1910.10397.pdf) | Heung-Chang Lee, et al. | [repo](https://github.com/logue311/EDNAS) | 2019 |
 | [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | Tim Salimans, Jonathan Ho, Xi Chen, Szymon Sidor, Ilya Sutskever | [[repo](https://github.com/openai/evolution-strategies-starter)]![github](github.jpg) [[blog](https://blog.openai.com/evolution-strategies/)] | 2017 |
 | [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567) | Felipe Petroski Such, Vashisht Madhavan, Edoardo Conti, Joel Lehman, Kenneth O. Stanley, Jeff Clune | [[repo](https://github.com/uber-research/deep-neuroevolution)]![github](github.jpg) [[blog](https://eng.uber.com/deep-neuroevolution/)]| 2017 |
 | [Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients](https://arxiv.org/abs/1712.06563) | Joel Lehman, Jay Chen, Jeff Clune, Kenneth O. Stanley | [repo](https://github.com/uber-research/safemutations)![github](github.jpg) | 2017 |
@@ -102,8 +103,6 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [ES-MAML: Simple Hessian-Free Meta Learning](https://arxiv.org/pdf/1910.01215.pdf) | Xingyou Song, et al. | not yet | 2019 |
 | [Empirical study on the performance of Neuro Evolution of Augmenting Topologies (NEAT)](http://ailab.ijs.si/dunja/SiKDD2019/Papers/Vicic_Final.pdf) | Domen Vake, et al. | [repo](https://github.com/VakeDomen/NEAT-driving) | 2019 |
 | [Improving Gradient Estimation in Evolutionary Strategies With Past Descent Directions](https://arxiv.org/pdf/1910.05268.pdf) | Florian Meier and Asier Mujika | not yet | 2019 |
-| [Efficient Decoupled Neural Architecture Search by Structure and Operation Sampling](https://arxiv.org/pdf/1910.10397.pdf) | Heung-Chang Lee, et al. | [repo](https://github.com/logue311/EDNAS) | 2019 |
-| ----- | ------- | -------- | ---- |
 
 
 ## Conferences
