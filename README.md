@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 | [Auto-creation of Effective Neural Network Architecture by Evolutionary Algorithm and ResNet for Image Classification](https://ieeexplore.ieee.org/abstract/document/8914267) | Zefeng Chen, et al. | not yet |  2019 IEEE International Conference on Systems, Man and Cybernetics (SMC) |
 | [Evolving Knowledge And Structure Through Evolution-based Neural Architecture Search](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2630150) | Magnus Poppe Wang | not | Master Thesis 2019 |
 | [Procedural Generation of Quests for Games Using Genetic Algorithms and Automated Planning ](https://www.researchgate.net/profile/Edirlei_Soares_De_Lima/publication/337103452_Procedural_Generation_of_Quests_for_Games_Using_Genetic_Algorithms_and_Automated_Planning/links/5dc53de74585151435f3bcb8/Procedural-Generation-of-Quests-for-Games-Using-Genetic-Algorithms-and-Automated-Planning.pdf) | Edirlei Soares de Lima, et al. | not yet | ```SBGames 2019``` |
