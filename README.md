@@ -26,6 +26,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
 |[A Survey on the Latest Development of Machine Learning in Genetic Algorithm and Particle Swarm Optimization](https://rd.springer.com/chapter/10.1007/978-981-15-0994-0_6) | Dipti Kapoor Sarmah | not yet | [Optimization in Machine Learning and Applications](https://rd.springer.com/book/10.1007/978-981-15-0994-0) |
 | [A Graph-Based Encoding for Evolutionary Convolutional Neural Network Architecture Design](https://ieeexplore.ieee.org/document/8790093) | William Irwin-Harris, et al. | not yet | 2019 IEEE Congress on Evolutionary Computation (CEC) |
 | [Auto-creation of Effective Neural Network Architecture by Evolutionary Algorithm and ResNet for Image Classification](https://ieeexplore.ieee.org/abstract/document/8914267) | Zefeng Chen, et al. | not yet |  2019 IEEE International Conference on Systems, Man and Cybernetics (SMC) |
