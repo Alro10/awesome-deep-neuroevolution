@@ -27,7 +27,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
 | ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
+| [Q-NAS Revisited: Exploring Evolution Fitness to Improve Efficiency](https://ieeexplore.ieee.org/abstract/document/8923858) | Daniela Szwarcman, et al | noy yet | 2019 8th Brazilian Conference on Intelligent Systems (BRACIS) |
 | [An Evolutionary Approach to Compact DAG Neural Network Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8907813) | Carter Chiu, et al. | not yet | 2019 |
 | [Multi-Criterion Evolutionary Design of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1912.01369.pdf) | Zhichao Lu, et al. | [[Code](https://github.com/ianwhale/nsga-net)] | 2019 |
 |[A Survey on the Latest Development of Machine Learning in Genetic Algorithm and Particle Swarm Optimization](https://rd.springer.com/chapter/10.1007/978-981-15-0994-0_6) | Dipti Kapoor Sarmah | not yet | [Optimization in Machine Learning and Applications](https://rd.springer.com/book/10.1007/978-981-15-0994-0) |
