@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Dynamic Facial Feature Learning by Deep Evolutionary Neural Networks](https://link.springer.com/chapter/10.1007/978-981-15-1925-3_23) | Ruicong Zhi, et al. | not yet | CyberDI 2019 |
 | [Automatic Design of Convolutional Neural Networks using Grammatical Evolution](https://ieeexplore.ieee.org/abstract/document/8923816) | Ricardo Henrique Remes de Lima, et al. | not yet | 2019 8th Brazilian Conference on Intelligent Systems (BRACIS) |
 | [Q-NAS Revisited: Exploring Evolution Fitness to Improve Efficiency](https://ieeexplore.ieee.org/abstract/document/8923858) | Daniela Szwarcman, et al | noy yet | 2019 8th Brazilian Conference on Intelligent Systems (BRACIS) |
 | [An Evolutionary Approach to Compact DAG Neural Network Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8907813) | Carter Chiu, et al. | not yet | 2019 |
