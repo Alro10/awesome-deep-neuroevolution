@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Efficacy of Modern Neuro-Evolutionary Strategies for Continuous Control Optimization](https://arxiv.org/pdf/1912.05239.pdf) | Paolo Pagliuca, et al. | not yet | 2019 |
 | [GAIM: A C++ library for Genetic Algorithms and Island Models](https://www.theoj.org/joss-papers/joss.01839/10.21105.joss.01839.pdf) | Georgios Detorakis, et al. | [[repo](https://gitlab.com/gdetor/genetic_alg)] | JOSS 2019 |
 | [Dynamic Facial Feature Learning by Deep Evolutionary Neural Networks](https://link.springer.com/chapter/10.1007/978-981-15-1925-3_23) | Ruicong Zhi, et al. | not yet | CyberDI 2019 |
 | [Automatic Design of Convolutional Neural Networks using Grammatical Evolution](https://ieeexplore.ieee.org/abstract/document/8923816) | Ricardo Henrique Remes de Lima, et al. | not yet | BRACIS 2019 |
