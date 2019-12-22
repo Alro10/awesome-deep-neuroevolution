@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Network of Evolvable Neural Units: Evolving to Learn at a Synaptic Level](https://arxiv.org/pdf/1912.07589.pdf) | Paul Bertens, et al. | not yet | 2019 |
 | [GENERATIVE TEACHING NETWORKS: ACCELERATING NEURAL ARCHITECTURE SEARCH BY LEARNING TO GENERATE SYNTHETIC TRAINING DATA](https://arxiv.org/pdf/1912.07768.pdf) | Felipe Petroski Such, et al. | not yet | 2019 |
 | [Efficacy of Modern Neuro-Evolutionary Strategies for Continuous Control Optimization](https://arxiv.org/pdf/1912.05239.pdf) | Paolo Pagliuca, et al. | not yet | 2019 |
 | [GAIM: A C++ library for Genetic Algorithms and Island Models](https://www.theoj.org/joss-papers/joss.01839/10.21105.joss.01839.pdf) | Georgios Detorakis, et al. | [[repo](https://gitlab.com/gdetor/genetic_alg)] | JOSS 2019 |
