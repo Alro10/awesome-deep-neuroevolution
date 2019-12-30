@@ -26,6 +26,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| ----- | ------- | -------- | ---- |
+| [Learning to grow: control of materials self-assembly using evolutionary reinforcement learning](https://arxiv.org/pdf/1912.08333.pdf) | Stephen Whitelam, et al. | not yet | 2019 |
 | [Network of Evolvable Neural Units: Evolving to Learn at a Synaptic Level](https://arxiv.org/pdf/1912.07589.pdf) | Paul Bertens, et al. | not yet | 2019 |
 | [GENERATIVE TEACHING NETWORKS: ACCELERATING NEURAL ARCHITECTURE SEARCH BY LEARNING TO GENERATE SYNTHETIC TRAINING DATA](https://arxiv.org/pdf/1912.07768.pdf) | Felipe Petroski Such, et al. | not yet | 2019 |
 | [Efficacy of Modern Neuro-Evolutionary Strategies for Continuous Control Optimization](https://arxiv.org/pdf/1912.05239.pdf) | Paolo Pagliuca, et al. | not yet | 2019 |
