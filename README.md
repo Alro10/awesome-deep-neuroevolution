@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Examining Hyperparameters of Neural Networks Trained Using Local Search](https://www.researchgate.net/profile/Ahmed_Aly13/publication/338501734_Examining_Hyperparameters_of_Neural_Networks_Trained_Using_Local_Search/links/5e1820fc299bf10bc3a09fe5/Examining-Hyperparameters-of-Neural-Networks-Trained-Using-Local-Search.pdf) | Ahmed Aly, et al. | 2020 |
 | [Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation](https://arxiv.org/pdf/1912.08324.pdf) | Tianhong Dai, et al. | not yet | 2020 |
 | [POPULATION-GUIDED PARALLEL POLICY SEARCH FOR REINFORCEMENT LEARNING](https://arxiv.org/pdf/2001.02907.pdf) | Whiyoung Jung, et al. | [repo](https://github.com/wyjung0625/p3s) | ICLR 2020 |
 | [IMPROVING DEEP NEUROEVOLUTION VIA DEEP INNOVATION PROTECTION](https://arxiv.org/pdf/2001.01683.pdf) | Sebastian Risi and Kenneth O. Stanley | [repo](https://github.com/uber-research/ga-world-models/) | 2020 |
