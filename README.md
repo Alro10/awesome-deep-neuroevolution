@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [A Study of Fitness Landscapes for Neuroevolution](https://arxiv.org/pdf/2001.11272.pdf) | Nuno M. Rodrigues, et al. | not yet | 2020 |
 | [Combining Evolution and Learning in Computational Ecosystems](https://www.degruyter.com/downloadpdf/j/jagi.2020.11.issue-1/jagi-2020-0001/jagi-2020-0001.pdf) | Claes Strannegård, et al. | not yet | 2020 |
 | [Examining Hyperparameters of Neural Networks Trained Using Local Search](https://www.researchgate.net/profile/Ahmed_Aly13/publication/338501734_Examining_Hyperparameters_of_Neural_Networks_Trained_Using_Local_Search/links/5e1820fc299bf10bc3a09fe5/Examining-Hyperparameters-of-Neural-Networks-Trained-Using-Local-Search.pdf) | Ahmed Aly, et al. | not yet | 2020 |
 | [Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation](https://arxiv.org/pdf/1912.08324.pdf) | Tianhong Dai, et al. | not yet | 2020 |
