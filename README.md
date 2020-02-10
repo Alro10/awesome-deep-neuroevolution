@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Evolving Neural Networks through a Reverse Encoding Tree](https://arxiv.org/pdf/2002.00539.pdf) | Haoling Zhang, et al. | [repo](https://github.com/HaolingZHANG/ReverseEncodingTree)| 2020 |
 | [Evolutionary LSTM-FCN networks for pattern classification in industrial processes](https://www.sciencedirect.com/science/article/abs/pii/S2210650219301270) | Patxi Ortego, et al. | not yet | Swarm and Evolutionary Computation, May 2020 |
 | [Evolving deep neural networks using coevolutionary algorithms with multi-population strategy](https://link.springer.com/article/10.1007/s00521-020-04749-2) | Sreenivas Sremath Tirumala | not yet | Neural Computing and Applications 2020 |
 | [Hierarchy and co-evolution processes in urban systems](https://arxiv.org/pdf/2001.11989.pdf) | Juste Raimbault | [repo](https://github.com/JusteRaimbault/CoevolutionNwTerritories) | 2020 |
