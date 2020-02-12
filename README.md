@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Improving the Performance of Evolutionary Algorithms via Gradient-Based Initialization](http://cs230.stanford.edu/projects_fall_2019/reports/26262118.pdf) | Chris Waites, et al | not yet | 2020 |
 | [Evolving Loss Functions With Multivariate Taylor Polynomial Parameterizations](https://arxiv.org/pdf/2002.00059.pdf) | Santiago Gonzalez and  Risto Miikkulainen | [repo](https://github.com/sgonzalez/SwiftCMA) | 2020 |
 | [Evolving Neural Networks through a Reverse Encoding Tree](https://arxiv.org/pdf/2002.00539.pdf) | Haoling Zhang, et al. | [repo](https://github.com/HaolingZHANG/ReverseEncodingTree)| 2020 |
 | [Evolutionary LSTM-FCN networks for pattern classification in industrial processes](https://www.sciencedirect.com/science/article/abs/pii/S2210650219301270) | Patxi Ortego, et al. | not yet | Swarm and Evolutionary Computation, May 2020 |
