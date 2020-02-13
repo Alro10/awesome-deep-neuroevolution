@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Horizontal gene transfer for recombining graphs](http://eprints.whiterose.ac.uk/155474/8/Atkinson2020_Article_HorizontalGeneTransferForRecom.pdf) | Timothy Atkinson, et al. | [repo](https://github.com/UoYCS-plasma/EGGP) | Genetic Programming and Evolvable Machines (2020) |
 | [Evolutionary music: applying evolutionary computation to the art of creating music](https://link.springer.com/article/10.1007/s10710-020-09380-7) | Roisin Loughran, et al. | not yet | Genetic Programming and Evolvable Machines (2020) |
 | [Improving the Performance of Evolutionary Algorithms via Gradient-Based Initialization](http://cs230.stanford.edu/projects_fall_2019/reports/26262118.pdf) | Chris Waites, et al | not yet | 2020 |
 | [Evolving Loss Functions With Multivariate Taylor Polynomial Parameterizations](https://arxiv.org/pdf/2002.00059.pdf) | Santiago Gonzalez and  Risto Miikkulainen | [repo](https://github.com/sgonzalez/SwiftCMA) | 2020 |
