@@ -40,6 +40,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation](https://arxiv.org/pdf/1912.08324.pdf) | Tianhong Dai, et al. | not yet | 2020 |
 | [POPULATION-GUIDED PARALLEL POLICY SEARCH FOR REINFORCEMENT LEARNING](https://arxiv.org/pdf/2001.02907.pdf) | Whiyoung Jung, et al. | [repo](https://github.com/wyjung0625/p3s) | ICLR 2020 |
 | [IMPROVING DEEP NEUROEVOLUTION VIA DEEP INNOVATION PROTECTION](https://arxiv.org/pdf/2001.01683.pdf) | Sebastian Risi and Kenneth O. Stanley | [repo](https://github.com/uber-research/ga-world-models/) | 2020 |
+| [Evolutionary NetArchitecture Search for Deep Neural Networks Pruning](https://dl.acm.org/doi/abs/10.1145/3377713.3377739) | Shuxin Chen, et al. | not yet | 2019 |
 |[AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985) | Jeff Clune | not yet | 2019 |
 | [Differential Evolution for Neural Networks Optimization](https://www.researchgate.net/publication/338404662_Differential_Evolution_for_Neural_Networks_Optimization) | Marco Baioletti, et al. | not yet | Mathematics 2020 |
 | [Using Neuroevolved Binary Neural Networks to solve reinforcement learning environments](https://ieeexplore.ieee.org/abstract/document/8953134) | Raul Valencia, et al. | not yet | 2019 IEEE APCCAS|
