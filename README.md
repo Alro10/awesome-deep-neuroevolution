@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription](https://arxiv.org/pdf/2002.05368.pdf) | Olivier Francon, et al. | not yet | 2020 |
 | [Highly Efficient Deep Intelligence via Multi-Parent Evolutionary Synthesis of Deep Neural Networks](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15627/Chung_Audrey.pdf?sequence=1&isAllowed=y) | Audrey Chung | Master Thesis | 2020 |
 | [NEUROEVOLUTION OF NEURAL NETWORK ARCHITECTURES USING CODEEPNEAT AND KERAS](https://arxiv.org/pdf/2002.04634.pdf) | Jonas da Silveira Bohrer, et al. | [repo](https://github.com/sbcblab/Keras-CoDeepNEAT) | 2020 |
 | [Horizontal gene transfer for recombining graphs](http://eprints.whiterose.ac.uk/155474/8/Atkinson2020_Article_HorizontalGeneTransferForRecom.pdf) | Timothy Atkinson, et al. | [repo](https://github.com/UoYCS-plasma/EGGP) | Genetic Programming and Evolvable Machines (2020) |
