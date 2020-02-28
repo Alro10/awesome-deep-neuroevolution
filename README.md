@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [AN EVOLUTIONARY DEEP LEARNING METHOD FOR SHORT-TERM WIND SPEED PREDICTION: A CASE STUDY OF THE LILLGRUND OFFSHORE WIND FARM](https://arxiv.org/pdf/2002.09106.pdf) | Mehdi Neshat, et al. | not yet | 2020|
 | [Accelerating Reinforcement Learning with a Directional-Gaussian-Smoothing Evolution Strategy](https://arxiv.org/pdf/2002.09077.pdf) | Jiaxin Zhang, et al. | not yet | 2020 |
 | [Comparison Between Stochastic Gradient Descent and VLE Metaheuristic for Optimizing Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-41913-4_13) | Juan A. Gómez-Pulido, et al. | not yet | OLA 2020 |
 | [Effective Reinforcement Learning through Evolutionary Surrogate-Assisted Prescription](https://arxiv.org/pdf/2002.05368.pdf) | Olivier Francon, et al. | not yet | 2020 |
