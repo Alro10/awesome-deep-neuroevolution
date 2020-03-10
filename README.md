@@ -174,7 +174,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 ## Researchers
 
 * [Kenneth O. Stanley](https://eng.uber.com/author/kenneth-stanley/)- Uber AI Labs.
-* [Jeff Clune](https://eng.uber.com/author/jeff-clune/)- Uber AI Labs.
+* [Jeff Clune](https://eng.uber.com/author/jeff-clune/)- Open AI.
 * [Risto Miikkulainen](https://scholar.google.com/citations?user=2SmbjHAAAAAJ&hl=es)- University of Texas at Austin.
 * [Nuno Lourenço](https://www.cisuc.uc.pt/people/show/2906)- University of Coimbra.
 
