@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Scaling MAP-Elites to Deep Neuroevolution](https://www.researchgate.net/publication/339710807_Scaling_MAP-Elites_to_Deep_Neuroevolution) | Cedric Colac, et al. | not yet | 2020 |
 | [Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity](https://www.researchgate.net/publication/339498081_Backpropamine_training_self-modifying_neural_networks_with_differentiable_neuromodulated_plasticity) | Aditya Rawal, Jeff Clune, Kenneth O. Stanley | not yet | 2020 |
 | [AN EVOLUTIONARY DEEP LEARNING METHOD FOR SHORT-TERM WIND SPEED PREDICTION: A CASE STUDY OF THE LILLGRUND OFFSHORE WIND FARM](https://arxiv.org/pdf/2002.09106.pdf) | Mehdi Neshat, et al. | not yet | 2020|
 | [Accelerating Reinforcement Learning with a Directional-Gaussian-Smoothing Evolution Strategy](https://arxiv.org/pdf/2002.09077.pdf) | Jiaxin Zhang, et al. | not yet | 2020 |
