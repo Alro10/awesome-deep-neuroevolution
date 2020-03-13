@@ -26,7 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-| ----- | ------- | -------- | ---- |
+| [Evolved Neuromorphic Control for High Speed Divergence-based Landings of MAVs](https://arxiv.org/pdf/2003.03118.pdf) | Jesse J. Hagenaars, et al. | [repo](https://github.com/Huizerd/evolutionary) | 2020 |
 | [EGAD! an Evolved Grasping Analysis Dataset for diversity and reproducibility in robotic manipulation](https://arxiv.org/pdf/2003.01314.pdf) | Douglas Morrison, et al. | [code-blog](https://dougsm.github.io/egad/) | 2020 |
 | [Scaling MAP-Elites to Deep Neuroevolution](https://www.researchgate.net/publication/339710807_Scaling_MAP-Elites_to_Deep_Neuroevolution) | Cedric Colac, et al. | not yet | 2020 |
 | [Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity](https://www.researchgate.net/publication/339498081_Backpropamine_training_self-modifying_neural_networks_with_differentiable_neuromodulated_plasticity) | Aditya Rawal, Jeff Clune, Kenneth O. Stanley | not yet | 2020 |
