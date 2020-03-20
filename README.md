@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Coping with opponents: multi-objective evolutionary neural networks for fighting games](https://link.springer.com/article/10.1007/s00521-020-04794-x) | Steven Kunzel and Silja Meyer-Nieberg | not yet | Neural Computing and Applications (2020) |
 | [Evolved Neuromorphic Control for High Speed Divergence-based Landings of MAVs](https://arxiv.org/pdf/2003.03118.pdf) | Jesse J. Hagenaars, et al. | [repo](https://github.com/Huizerd/evolutionary) | 2020 |
 | [EGAD! an Evolved Grasping Analysis Dataset for diversity and reproducibility in robotic manipulation](https://arxiv.org/pdf/2003.01314.pdf) | Douglas Morrison, et al. | [code-blog](https://dougsm.github.io/egad/) | 2020 |
 | [Scaling MAP-Elites to Deep Neuroevolution](https://www.researchgate.net/publication/339710807_Scaling_MAP-Elites_to_Deep_Neuroevolution) | Cedric Colac, et al. | not yet | 2020 |
