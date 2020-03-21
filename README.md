@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Learning feature spaces for regression with genetic programming](https://link.springer.com/article/10.1007/s10710-020-09383-4) | William La Cava and Jason H. Moore | not yet | Genetic Programming and Evolvable Machines (2020) |
 | [Artificial Neural Network Trained by Plant Genetic-Inspired Optimizer](https://link.springer.com/chapter/10.1007/978-981-15-2133-1_12) | Neeraj Gupta, et al. | not yet | Frontier Applications of Nature Inspired Computation 2020 |
 | [Action Unit Analysis Enhanced Facial Expression Recognition by Deep Neural Network Evolution](https://www.sciencedirect.com/science/article/abs/pii/S0925231220303891)| Ruicong Zhi, et al.| Neurocomputing 2020 Elsevier | not yet |
 | [Coping with opponents: multi-objective evolutionary neural networks for fighting games](https://link.springer.com/article/10.1007/s00521-020-04794-x) | Steven Kunzel and Silja Meyer-Nieberg | not yet | Neural Computing and Applications (2020) |
