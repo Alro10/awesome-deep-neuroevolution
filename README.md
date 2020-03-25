@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions](https://arxiv.org/pdf/2003.08536.pdf) | Rui Wang, et al. | not yet | 2020 |
 | [Neuroevolution of Self-Interpretable Agents](https://arxiv.org/pdf/2003.08165.pdf) | Yujin Tang, et al. | [repo](https://attentionagent.github.io/) | 2020 |
 | [META-LEARNING CURIOSITY ALGORITHMS](https://arxiv.org/pdf/2003.05325.pdf) | Ferran Alet, et al. | [repo](https://github.com/mfranzs/meta-learning-curiosity-algorithms) | **ICLR 2020** |
 | [Learning feature spaces for regression with genetic programming](https://link.springer.com/article/10.1007/s10710-020-09383-4) | William La Cava and Jason H. Moore | not yet | Genetic Programming and Evolvable Machines (2020) |
