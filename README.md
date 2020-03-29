@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Hyper-Parameter Selection in Convolutional Neural Networks Using Microcanonical Optimization Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9037322) | AYLA GÜLCÜ and ZEKI KUŞ | not yet | 2020 |
 | [Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions](https://arxiv.org/pdf/2003.08536.pdf) | Rui Wang, et al. | not yet | 2020 |
 | [Neuroevolution of Self-Interpretable Agents](https://arxiv.org/pdf/2003.08165.pdf) | Yujin Tang, et al. | [repo](https://attentionagent.github.io/) | 2020 |
 | [META-LEARNING CURIOSITY ALGORITHMS](https://arxiv.org/pdf/2003.05325.pdf) | Ferran Alet, et al. | [repo](https://github.com/mfranzs/meta-learning-curiosity-algorithms) | **ICLR 2020** |
