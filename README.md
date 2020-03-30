@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Optimisation of Phonetic Aware Speech Recognition through Multi-objective Evolutionary Algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0957417420302268) | Jordan J. Bird, et al. | not yet | [Elsevier](https://www.sciencedirect.com/journal/expert-systems-with-applications) |
 | [A Brain-Inspired Framework for Evolutionary Artificial General Intelligence](https://ieeexplore.ieee.org/abstract/document/9034490) | Mohammad Nadji-Tehrani, et al. | not yet | 2020 |
 |[The use of Genetic Programming for detecting the incorrect predictions of Classification Models](https://run.unl.pt/bitstream/10362/94537/1/TAA0048.pdf) | Adrianna Maria Napiórkowska | not, Master thesis | 2020 |
 | [Hyper-Parameter Selection in Convolutional Neural Networks Using Microcanonical Optimization Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9037322) | AYLA GÜLCÜ and ZEKI KUŞ | not yet | 2020 |
