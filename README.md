@@ -26,7 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
-| [EVOLUTIONARY POPULATION CURRICULUM FOR SCALING MULTI-AGENT REINFORCEMENT LEARNING](https://arxiv.org/pdf/2003.10423.pdf) | Qian Long, et al. | [repo](https://github.com/qian18long/epciclr2020) | ICLR 2020 |
+| [EVOLUTIONARY POPULATION CURRICULUM FOR SCALING MULTI-AGENT REINFORCEMENT LEARNING](https://arxiv.org/pdf/2003.10423.pdf) | Qian Long, et al. | [repo](https://github.com/qian18long/epciclr2020) | **ICLR 2020** |
 | [Optimisation of Phonetic Aware Speech Recognition through Multi-objective Evolutionary Algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0957417420302268) | Jordan J. Bird, et al. | not yet | [Elsevier](https://www.sciencedirect.com/journal/expert-systems-with-applications) |
 | [A Brain-Inspired Framework for Evolutionary Artificial General Intelligence](https://ieeexplore.ieee.org/abstract/document/9034490) | Mohammad Nadji-Tehrani, et al. | not yet | 2020 |
 |[The use of Genetic Programming for detecting the incorrect predictions of Classification Models](https://run.unl.pt/bitstream/10362/94537/1/TAA0048.pdf) | Adrianna Maria Napiórkowska | not, Master thesis | 2020 |
