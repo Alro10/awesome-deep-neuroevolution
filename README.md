@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [A Brain-Inspired Framework for Evolutionary Artificial General Intelligence](https://ieeexplore.ieee.org/abstract/document/9034490) | Mohammad Nadji-Tehrani, et al. | not yet | 2020 |
 |[The use of Genetic Programming for detecting the incorrect predictions of Classification Models](https://run.unl.pt/bitstream/10362/94537/1/TAA0048.pdf) | Adrianna Maria Napiórkowska | not, Master thesis | 2020 |
 | [Hyper-Parameter Selection in Convolutional Neural Networks Using Microcanonical Optimization Algorithm](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9037322) | AYLA GÜLCÜ and ZEKI KUŞ | not yet | 2020 |
 | [Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions](https://arxiv.org/pdf/2003.08536.pdf) | Rui Wang, et al. | not yet | 2020 |
