@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Fiber: A Platform for Efficient Development and Distributed Training for Reinforcement Learning and Population-Based Methods](https://arxiv.org/pdf/2003.11164.pdf) | Jiale Zhi, et al. | not yet | 2020 |
 | [EVOLUTIONARY POPULATION CURRICULUM FOR SCALING MULTI-AGENT REINFORCEMENT LEARNING](https://arxiv.org/pdf/2003.10423.pdf) | Qian Long, et al. | [repo](https://github.com/qian18long/epciclr2020) | **ICLR 2020** |
 | [Optimisation of Phonetic Aware Speech Recognition through Multi-objective Evolutionary Algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0957417420302268) | Jordan J. Bird, et al. | not yet | [Elsevier](https://www.sciencedirect.com/journal/expert-systems-with-applications) |
 | [A Brain-Inspired Framework for Evolutionary Artificial General Intelligence](https://ieeexplore.ieee.org/abstract/document/9034490) | Mohammad Nadji-Tehrani, et al. | not yet | 2020 |
