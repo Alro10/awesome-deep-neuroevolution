@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks](https://arxiv.org/pdf/2004.00151.pdf) | Jacob Schrum, et al. | [repo](https://github.com/schrum2/GameGAN) | GECCO 2020  |
 | [EvoU–Net: An Evolutionary Deep Fully Convolutional NeuralNetwork for Medical Image Segmentation](https://dl.acm.org/doi/pdf/10.1145/3341105.3373856) | Tahereh Hassanzadeh, et al. | not yet | 2020 ACM |
 | [Understanding Features on Evolutionar y Policy Optimizations](https://dl.acm.org/doi/pdf/10.1145/3341105.3373966) | Sangyeop Lee, et al. | not yet | 2020 ACM |
 | [Fiber: A Platform for Efficient Development and Distributed Training for Reinforcement Learning and Population-Based Methods](https://arxiv.org/pdf/2003.11164.pdf) | Jiale Zhi, et al. | not yet | 2020 |
