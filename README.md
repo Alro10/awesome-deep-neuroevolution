@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Learning Stabilizing Control Policies for a Tensegrity Hopper with Augmented Random Search](https://arxiv.org/pdf/2004.02641.pdf) | Vladislav Kurenkov, et al. | not yet | 2020 |
 | [Evolution of Scikit-Learn Pipelines with Dynamic Structured Grammatical Evolution](https://www.researchgate.net/publication/340374650_Evolution_of_Scikit-Learn_Pipelines_with_Dynamic_Structured_Grammatical_Evolution) | Filipe Assunção, et al. | not yet | 2020 |
 | [Incremental Evolution and Development of Deep Artificial Neural Networks](https://www.researchgate.net/publication340374377_Incremental_Evolution_and_Development_of_Deep_Artificial_Neural_Networks) | Filipe Assunção, et al. | [repo](https://github.com/fillassuncao/fast-denser3) | 2020 |
 | [Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks](https://arxiv.org/pdf/2004.00151.pdf) | Jacob Schrum, et al. | [repo](https://github.com/schrum2/GameGAN) | GECCO 2020  |
