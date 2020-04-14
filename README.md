@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Evolutionary recurrent neural network for image captioning](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304744) | Hanzhang Wang, et al. | not yet | Neurocomputing 2020 Elsevier |
 | [Learning Stabilizing Control Policies for a Tensegrity Hopper with Augmented Random Search](https://arxiv.org/pdf/2004.02641.pdf) | Vladislav Kurenkov, et al. | not yet | 2020 |
 | [Evolution of Scikit-Learn Pipelines with Dynamic Structured Grammatical Evolution](https://www.researchgate.net/publication/340374650_Evolution_of_Scikit-Learn_Pipelines_with_Dynamic_Structured_Grammatical_Evolution) | Filipe Assunção, et al. | not yet | 2020 |
 | [Incremental Evolution and Development of Deep Artificial Neural Networks](https://www.researchgate.net/publication340374377_Incremental_Evolution_and_Development_of_Deep_Artificial_Neural_Networks) | Filipe Assunção, et al. | [repo](https://github.com/fillassuncao/fast-denser3) | 2020 |
