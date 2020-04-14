@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Adversarial genetic programming for cyber security: a rising application domain where GP matters](https://link.springer.com/article/10.1007%2Fs10710-020-09389-y) | Una-May O’Reilly, et al. | not yet | Genetic Programming and Evolvable Machines 2020 |
 | [Evolutionary recurrent neural network for image captioning](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304744) | Hanzhang Wang, et al. | not yet | Neurocomputing 2020 Elsevier |
 | [Learning Stabilizing Control Policies for a Tensegrity Hopper with Augmented Random Search](https://arxiv.org/pdf/2004.02641.pdf) | Vladislav Kurenkov, et al. | not yet | 2020 |
 | [Evolution of Scikit-Learn Pipelines with Dynamic Structured Grammatical Evolution](https://www.researchgate.net/publication/340374650_Evolution_of_Scikit-Learn_Pipelines_with_Dynamic_Structured_Grammatical_Evolution) | Filipe Assunção, et al. | not yet | 2020 |
