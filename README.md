@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [ModuleNet: Knowledge-inherited Neural Architecture Search](https://arxiv.org/pdf/2004.05020.pdf) | Yaran Chen, et al. | [repo](https://github.com/flymin/darts) | 2020 |
 | [The Expense of Neuro-Morpho Functional Machines](http://www.nitschke-lab.uct.ac.za/sites/default/files/image_tool/images/540/Papers/2020-The%20Expense%20of%20Neuro-Morpho%20Functional%20Machines.pdf) | Scott Hallauer and Geoff Nitschke | [repo](https://github.com/robotcomplexity/2020) | 2020 |
 | [Adversarial genetic programming for cyber security: a rising application domain where GP matters](https://link.springer.com/article/10.1007%2Fs10710-020-09389-y) | Una-May O’Reilly, et al. | not yet | Genetic Programming and Evolvable Machines 2020 |
 | [Evolutionary recurrent neural network for image captioning](https://www.sciencedirect.com/science/article/abs/pii/S0925231220304744) | Hanzhang Wang, et al. | not yet | Neurocomputing 2020 Elsevier |
