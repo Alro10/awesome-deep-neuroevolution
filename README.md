@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Improving Deep Reinforcement Learning with Advanced Exploration and Transfer Learning Techniques](file:///Users/arobles/Downloads/Haiyan_PhD_Thesis_submit_DRNTU.pdf) | HAIYAN YIN | not, PhD Thesis | 2020 |
 | [Using Skill Rating as Fitness on the Evolution of GANs](https://link.springer.com/chapter/10.1007%2F978-3-030-43722-0_36) | Vitor Costa | not yet | EvoApplications 2020 |
 | [ModuleNet: Knowledge-inherited Neural Architecture Search](https://arxiv.org/pdf/2004.05020.pdf) | Yaran Chen, et al. | [repo](https://github.com/flymin/darts) | 2020 |
 | [The Expense of Neuro-Morpho Functional Machines](http://www.nitschke-lab.uct.ac.za/sites/default/files/image_tool/images/540/Papers/2020-The%20Expense%20of%20Neuro-Morpho%20Functional%20Machines.pdf) | Scott Hallauer and Geoff Nitschke | [repo](https://github.com/robotcomplexity/2020) | 2020 |
