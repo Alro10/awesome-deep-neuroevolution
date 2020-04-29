@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Diversity Preservation in Minimal Criterion Coevolution through Resource Limitation](https://eplex.cs.ucf.edu/papers/brant_gecco20.pdf) | Jonathan C. Brant and Kenneth O. Stanley | not yet | GECCO 2020 |
 | [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/pdf/2004.05439.pdf) | Timothy Hospedales, et al. | not, survey | 2020 |
 | [Improving Deep Reinforcement Learning with Advanced Exploration and Transfer Learning Techniques](file:///Users/arobles/Downloads/Haiyan_PhD_Thesis_submit_DRNTU.pdf) | HAIYAN YIN | not, PhD Thesis | 2020 |
 | [Using Skill Rating as Fitness on the Evolution of GANs](https://link.springer.com/chapter/10.1007%2F978-3-030-43722-0_36) | Vitor Costa | not yet | EvoApplications 2020 |
