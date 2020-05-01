@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [PBCS: Efficient Exploration and Exploitation Using a Synergy between Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2004.11667.pdf) | Guillaume Matheron, et al. | not yet | 2020 |
 | [Efficient Evolutionary Neural Architecture Search (NAS) by Modular Inheritable Crossover](https://link.springer.com/chapter/10.1007%2F978-981-15-3425-6_61) | Hao Tan, et al. | not yet | BIC-TA 2020 |
 | [Diversity Preservation in Minimal Criterion Coevolution through Resource Limitation](https://eplex.cs.ucf.edu/papers/brant_gecco20.pdf) | Jonathan C. Brant and Kenneth O. Stanley | not yet | GECCO 2020 |
 | [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/pdf/2004.05439.pdf) | Timothy Hospedales, et al. | not, survey | 2020 |
