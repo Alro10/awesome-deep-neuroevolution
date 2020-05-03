@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [First return then explore](https://arxiv.org/pdf/2004.12919.pdf) | Adrien Ecoffet*, Joost Huizinga∗, Joel Lehman, Kenneth O. Stanley & Jeff Clune | [[repo](https://github.com/uber-research/go-explore)] | 2020 |
 |[Neuromodulated multiobjective evolutionary neurocontrollers without speciation](https://link.springer.com/article/10.1007%2Fs12065-020-00394-9) | Ian Showalter and Howard M. Schwartz  | not yet | Evolutionary Intelligence (2020) |
 | [PBCS: Efficient Exploration and Exploitation Using a Synergy between Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2004.11667.pdf) | Guillaume Matheron, et al. | not yet | 2020 |
 | [Efficient Evolutionary Neural Architecture Search (NAS) by Modular Inheritable Crossover](https://link.springer.com/chapter/10.1007%2F978-981-15-3425-6_61) | Hao Tan, et al. | not yet | BIC-TA 2020 |
