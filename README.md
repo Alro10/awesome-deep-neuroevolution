@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [A Comparison of Evolutionary and Tree-Based Approaches for Game Feature Validation in RealTime Strategy Games with a Novel Metric ](https://www.mdpi.com/2227-7390/8/5/688) | Damijan Novak, et al. | not yet | 2020 |
 | [First return then explore](https://arxiv.org/pdf/2004.12919.pdf) | Adrien Ecoffet*, Joost Huizinga∗, Joel Lehman, Kenneth O. Stanley & Jeff Clune | [[repo](https://github.com/uber-research/go-explore)] | 2020 |
 |[Neuromodulated multiobjective evolutionary neurocontrollers without speciation](https://link.springer.com/article/10.1007%2Fs12065-020-00394-9) | Ian Showalter and Howard M. Schwartz  | not yet | Evolutionary Intelligence (2020) |
 | [PBCS: Efficient Exploration and Exploitation Using a Synergy between Reinforcement Learning and Motion Planning](https://arxiv.org/pdf/2004.11667.pdf) | Guillaume Matheron, et al. | not yet | 2020 |
