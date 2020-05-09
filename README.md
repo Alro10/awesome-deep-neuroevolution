@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [An Effective Maximum Entropy Exploration Approach for Deceptive Game in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0925231220306536) | Chunmao Lin, et al. | not yet | Neurocomputing 2020|
 | [A Comparison of Evolutionary and Tree-Based Approaches for Game Feature Validation in RealTime Strategy Games with a Novel Metric ](https://www.mdpi.com/2227-7390/8/5/688) | Damijan Novak, et al. | not yet | 2020 |
 | [First return then explore](https://arxiv.org/pdf/2004.12919.pdf) | Adrien Ecoffet*, Joost Huizinga∗, Joel Lehman, Kenneth O. Stanley & Jeff Clune | [[repo](https://github.com/uber-research/go-explore)] | 2020 |
 |[Neuromodulated multiobjective evolutionary neurocontrollers without speciation](https://link.springer.com/article/10.1007%2Fs12065-020-00394-9) | Ian Showalter and Howard M. Schwartz  | not yet | Evolutionary Intelligence (2020) |
