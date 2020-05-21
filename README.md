@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://www.ri.cmu.edu/wp-content/uploads/2020/05/Qian_Long_thesis.pdf | Qian LONG | not | Master Thesis 2020 |
 | [Novelty Search makes Evolvability Inevitable](https://arxiv.org/pdf/2005.06224.pdf) | Stephane Doncieux, et al. | [[repo](https://github.com/robotsthatdream/diversity_algorithms)] | GECCO 2020 |
 | [Genetic Deep Reinforcement Learning for Mapless Navigation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1919.pdf) | Enrico Marchesini and Alessandro Farinelli | not yet | AAMAS 2020 |
 | [Accelerating Deep Neuroevolution on Distributed FPGAs for Reinforcement Learning Problems](https://arxiv.org/pdf/2005.04536.pdf) | Alexis Asseman, et al. | [[repo](https://github.com/IBM/AccDNN)] | 2020 `IBM Almaden Research Center` |
