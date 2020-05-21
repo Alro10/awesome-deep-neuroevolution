@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Genetic Deep Reinforcement Learning for Mapless Navigation](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1919.pdf) | Enrico Marchesini and Alessandro Farinelli | not yet | AAMAS 2020 |
 | [Accelerating Deep Neuroevolution on Distributed FPGAs for Reinforcement Learning Problems](https://arxiv.org/pdf/2005.04536.pdf) | Alexis Asseman, et al. | [[repo](https://github.com/IBM/AccDNN)] | 2020 `IBM Almaden Research Center` |
 | [A Hybrid Method for Training Convolutional Neural Networks](https://arxiv.org/pdf/2005.04153.pdf)| Vasco Lopes and Paulo Fazendeiro | noy yet | 2020|
 | [An Effective Maximum Entropy Exploration Approach for Deceptive Game in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0925231220306536) | Chunmao Lin, et al. | not yet | Neurocomputing 2020|
