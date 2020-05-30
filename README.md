@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [TRAINING ADAPTABLE NEURAL NETWORKS BASED ON EVOLVABILITY SEARCH](http://www.freepatentsonline.com/y2020/0151576.html) | Gajewski, Alexander P, et al. | not | 2020|
 | [IMPROVING NEUROEVOLUTION USING ISLAND EXTINCTION AND REPOPULATION](https://arxiv.org/pdf/2005.07376.pdf) | Zimeng Lyu, et al. | [[repo](https://github.com/travisdesell/exact)] | 2020 |
 | [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://www.ri.cmu.edu/wp-content/uploads/2020/05/Qian_Long_thesis.pdf) | Qian LONG | not | Master Thesis 2020 |
 | [Novelty Search makes Evolvability Inevitable](https://arxiv.org/pdf/2005.06224.pdf) | Stephane Doncieux, et al. | [[repo](https://github.com/robotsthatdream/diversity_algorithms)] | GECCO 2020 |
