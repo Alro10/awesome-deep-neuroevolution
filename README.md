@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search](https://www.researchgate.net/publication341699298_Synthetic_Petri_Dish_A_Novel_Surrogate_Model_for_Rapid_Architecture_Search) | Aditya Rawal | not yet | 2020 |
 | [TRAINING ADAPTABLE NEURAL NETWORKS BASED ON EVOLVABILITY SEARCH](http://www.freepatentsonline.com/y2020/0151576.html) | Gajewski, Alexander P, et al. | not | 2020|
 | [IMPROVING NEUROEVOLUTION USING ISLAND EXTINCTION AND REPOPULATION](https://arxiv.org/pdf/2005.07376.pdf) | Zimeng Lyu, et al. | [[repo](https://github.com/travisdesell/exact)] | 2020 |
 | [Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning](https://www.ri.cmu.edu/wp-content/uploads/2020/05/Qian_Long_thesis.pdf) | Qian LONG | not | Master Thesis 2020 |
