@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Evolutionary Automation of Coordinated Autonomous Vehicles](http://www.nitschke-lab.uct.ac.za/sites/default/files/image_tool/images/540/Papers/2020-Evolutionary%20Automation%20of%20Coordinated%20Autonomous%20Vehicles.pdf) | Allen Huang and Geoff Nitschke | not yet | 2020 |
 | [Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search](https://www.researchgate.net/publication341699298_Synthetic_Petri_Dish_A_Novel_Surrogate_Model_for_Rapid_Architecture_Search) | Aditya Rawal | not yet | 2020 |
 | [TRAINING ADAPTABLE NEURAL NETWORKS BASED ON EVOLVABILITY SEARCH](http://www.freepatentsonline.com/y2020/0151576.html) | Gajewski, Alexander P, et al. | not | 2020|
 | [IMPROVING NEUROEVOLUTION USING ISLAND EXTINCTION AND REPOPULATION](https://arxiv.org/pdf/2005.07376.pdf) | Zimeng Lyu, et al. | [[repo](https://github.com/travisdesell/exact)] | 2020 |
