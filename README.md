@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Combining a gradient-based method and an evolution strategy for multi-objective reinforcement learning](https://link.springer.com/content/pdf/10.1007/s10489-020-01702-7.pdf) | Diqi Chen, et al. | not yet | 2020 |
 | [Efficient Architecture Search for Deep Neural Networks])(https://www.sciencedirect.com/science/article/pii/S1877050920303859) | Ram Deepak Gottapu and Cihan H Dagli | not yet | 2020 |
 | [Evolutionary Automation of Coordinated Autonomous Vehicles](http://www.nitschke-lab.uct.ac.za/sites/default/files/image_tool/images/540/Papers/2020-Evolutionary%20Automation%20of%20Coordinated%20Autonomous%20Vehicles.pdf) | Allen Huang and Geoff Nitschke | not yet | 2020 |
 | [Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search](https://www.researchgate.net/publication341699298_Synthetic_Petri_Dish_A_Novel_Surrogate_Model_for_Rapid_Architecture_Search) | Aditya Rawal | not yet | 2020 |
