@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Online Hyper-parameter Tuning in Off-policy Learning via Evolutionary Strategies](https://arxiv.org/pdf/2006.07554.pdf) | Yunhao Tang and Krzysztof Choromanski | not yet | 2020 |
 | [NEUROEVOLUTIONARY TRANSFER LEARNING OF DEEP RECURRENT NEURAL NETWORKS THROUGH NETWORK-AWARE ADAPTATION](https://arxiv.org/pdf/2006.02655.pdf) | AbdElRahman ElSaid, et al. |  not yet |  2020 |
 | [Combining a gradient-based method and an evolution strategy for multi-objective reinforcement learning](https://link.springer.com/content/pdf/10.1007/s10489-020-01702-7.pdf) | Diqi Chen, et al. | not yet | 2020 |
 | [Efficient Architecture Search for Deep Neural Networks])(https://www.sciencedirect.com/science/article/pii/S1877050920303859) | Ram Deepak Gottapu and Cihan H Dagli | not yet | 2020 |
