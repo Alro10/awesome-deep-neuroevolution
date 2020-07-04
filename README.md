@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Exploring the evolution of GANs through quality diversity](https://dl.acm.org/doi/abs/10.1145/3377930.3389824) | Victor Costa, et al. | [[repo](https://github.com/vfcosta)]| GECCO ’20 |
 | [Improving neuroevolutionary transfer learning of deep recurrent neural networks through network-aware adaptation](https://dl.acm.org/doi/abs/10.1145/3377930.3390193) | AbdElRahman ElSaid, et al.| [[repo](https://github.com/travisdesell/exact)] | GECCO ’20 |
 | [Online Hyper-parameter Tuning in Off-policy Learning via Evolutionary Strategies](https://arxiv.org/pdf/2006.07554.pdf) | Yunhao Tang and Krzysztof Choromanski | not yet | 2020 |
 | [NEUROEVOLUTIONARY TRANSFER LEARNING OF DEEP RECURRENT NEURAL NETWORKS THROUGH NETWORK-AWARE ADAPTATION](https://arxiv.org/pdf/2006.02655.pdf) | AbdElRahman ElSaid, et al. |  not yet |  2020 |
