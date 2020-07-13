@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Online NEAT for Credit Evaluation - a Dynamic Problem with Sequential Data](https://arxiv.org/pdf/2007.02821.pdf) | Yue Liu, et al. | not yet | 2020 |
 | [Exploring the evolution of GANs through quality diversity](https://dl.acm.org/doi/abs/10.1145/3377930.3389824) | Victor Costa, et al. | [[repo](https://github.com/vfcosta)]| GECCO ’20 |
 | [Improving neuroevolutionary transfer learning of deep recurrent neural networks through network-aware adaptation](https://dl.acm.org/doi/abs/10.1145/3377930.3390193) | AbdElRahman ElSaid, et al.| [[repo](https://github.com/travisdesell/exact)] | GECCO ’20 |
 | [Online Hyper-parameter Tuning in Off-policy Learning via Evolutionary Strategies](https://arxiv.org/pdf/2006.07554.pdf) | Yunhao Tang and Krzysztof Choromanski | not yet | 2020 |
