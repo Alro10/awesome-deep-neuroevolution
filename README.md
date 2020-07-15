@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Learning to walk - reward relevance within an enhanced neuroevolution approach](https://dl.acm.org/doi/abs/10.1145/3377929.3398126) | I. Colucci, et al. | not yet | GECCO ’20 |
 | [Evolving neural network agents to play atari games with compact state representations](https://dl.acm.org/doi/abs/10.1145/3377929.3390072) | Adam Tupper, et al. | not yet | GECCO ’20 |
 | [Online NEAT for Credit Evaluation - a Dynamic Problem with Sequential Data](https://arxiv.org/pdf/2007.02821.pdf) | Yue Liu, et al. | not yet | 2020 |
 | [Exploring the evolution of GANs through quality diversity](https://dl.acm.org/doi/abs/10.1145/3377930.3389824) | Victor Costa, et al. | [[repo](https://github.com/vfcosta)]| GECCO ’20 |
