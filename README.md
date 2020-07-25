@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [One-Shot Neural Architecture Search via Novelty Driven Sampling](https://www.ijcai.org/Proceedings/2020/0441.pdf) | Miao Zhang, et al. | [[repo](https://github.com/MiaoZhang0525/ENNAS_MASTER)] | IJCAI-20 |
 | [Coevolutionary Learning of Neuromodulated Controllers for Multi-Stage and Gamified Tasks](https://www.researchgate.net/profile/Chloe_Barnes5/publication/342991590_Coevolutionary_Learning_of_Neuromodulated_Controllers_for_Multi-Stage_and_Gamified_Tasks/links/5f10907392851c1eff15d0ba/Coevolutionary-Learning-ofNeuromodulated-Controllers-for-Multi-Stage-and-Gamified-Tasks.pdf) | Chloe M. Barnes, et al. | not yet | 2020 |
 | [An adaptive neuroevolution-based hyperheuristic](https://dl.acm.org/doi/abs/10.1145/3377929.3389937) | Etor Arza, et al. | [repo](https://github.com/EtorArza/GECCO2020) | GECCO ’20 |
 | [Learning to walk - reward relevance within an enhanced neuroevolution approach](https://dl.acm.org/doi/abs/10.1145/3377929.3398126) | I. Colucci, et al. | not yet | GECCO ’20 |
