@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Developmental neuronal networks as models to study the evolution of biological intelligence](https://www.irit.fr/devonn/files/2020/hintze_final.pdf) | Arend Hintze, et al. | not yet | 2020 |
 | [CoNES: Convex Natural Evolutionary Strategies](https://arxiv.org/pdf/2007.08601.pdf) | Sushant Veer and Anirudha Majumdar | [[repo](https://github.com/irom-lab/conES)]| 2020 |
 | [One-Shot Neural Architecture Search via Novelty Driven Sampling](https://www.ijcai.org/Proceedings/2020/0441.pdf) | Miao Zhang, et al. | [[repo](https://github.com/MiaoZhang0525/ENNAS_MASTER)] | IJCAI-20 |
 | [Coevolutionary Learning of Neuromodulated Controllers for Multi-Stage and Gamified Tasks](https://www.researchgate.net/profile/Chloe_Barnes5/publication/342991590_Coevolutionary_Learning_of_Neuromodulated_Controllers_for_Multi-Stage_and_Gamified_Tasks/links/5f10907392851c1eff15d0ba/Coevolutionary-Learning-ofNeuromodulated-Controllers-for-Multi-Stage-and-Gamified-Tasks.pdf) | Chloe M. Barnes, et al. | not yet | 2020 |
