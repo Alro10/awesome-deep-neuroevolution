@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Using Deep Neuroevolution to train Deep Reinforcement Learning Agents](https://saliknadeem.github.io/files/drl_report.pdf) | Muhammad Salik Nadeem | not yet | 2020 |
 | [Analyzing the Components of Distributed Coevolutionary GAN Training](https://arxiv.org/pdf/2008.01124.pdf) | Jamal Toutouh, et al. | [[repo](https://github.com/ALFA-group/lipizzaner-gan)] | 2020 |
 | [Developmental neuronal networks as models to study the evolution of biological intelligence](https://www.irit.fr/devonn/files/2020/hintze_final.pdf) | Arend Hintze, et al. | not yet | 2020 |
 | [CoNES: Convex Natural Evolutionary Strategies](https://arxiv.org/pdf/2007.08601.pdf) | Sushant Veer and Anirudha Majumdar | [[repo](https://github.com/irom-lab/conES)]| 2020 |
