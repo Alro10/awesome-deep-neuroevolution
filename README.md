@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Evolutionary Reinforcement Learning via Cooperative Coevolutionary Negatively Correlated Search](https://arxiv.org/pdf/2009.03603.pdf) | Hu Zhang, et al. | not yet | 2020 |
 | [CLAN: Continuous Learning using Asynchronous Neuroevolution on Commodity Edge Devices](https://arxiv.org/pdf/2008.11881.pdf) | Parth Mannan, et al. | not yet | 2020 |
 | [Using Deep Neuroevolution to train Deep Reinforcement Learning Agents](https://saliknadeem.github.io/files/drl_report.pdf) | Muhammad Salik Nadeem | not yet | 2020 |
 | [Analyzing the Components of Distributed Coevolutionary GAN Training](https://arxiv.org/pdf/2008.01124.pdf) | Jamal Toutouh, et al. | [[repo](https://github.com/ALFA-group/lipizzaner-gan)] | 2020 |
