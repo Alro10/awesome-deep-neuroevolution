@@ -23,9 +23,10 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 
 ## Papers
-
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Probabilistic Dual Network Architecture Search on Graphs](https://arxiv.org/abs/2003.09676) | Zhao et al. | not yet | 2020 |
+| [Evolutionary Algorithm Enhanced Neural Architecture Search for Text-Independent Speaker Verification](https://arxiv.org/abs/2008.05695) | Qu et al. | not yet | 2020 |
 | [A Neuroevolutionary Approach to Evolve a Flexible Neural Controller for a Morphology Changing Quadruped Robot](https://www.duo.uio.no/bitstream/handle/10852/79650/1/wonho_lee_master_thesis.pdf) | -Wonho Lee | not yet | 2020 |
 | [Evolutionary Reinforcement Learning via Cooperative Coevolutionary Negatively Correlated Search](https://arxiv.org/pdf/2009.03603.pdf) | Hu Zhang, et al. | not yet | 2020 |
 | [CLAN: Continuous Learning using Asynchronous Neuroevolution on Commodity Edge Devices](https://arxiv.org/pdf/2008.11881.pdf) | Parth Mannan, et al. | not yet | 2020 |
@@ -111,6 +112,8 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 | [Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation](https://arxiv.org/pdf/1912.08324.pdf) | Tianhong Dai, et al. | not yet | 2020 |
 | [POPULATION-GUIDED PARALLEL POLICY SEARCH FOR REINFORCEMENT LEARNING](https://arxiv.org/pdf/2001.02907.pdf) | Whiyoung Jung, et al. | [repo](https://github.com/wyjung0625/p3s) | ICLR 2020 |
 | [IMPROVING DEEP NEUROEVOLUTION VIA DEEP INNOVATION PROTECTION](https://arxiv.org/pdf/2001.01683.pdf) | Sebastian Risi and Kenneth O. Stanley | [repo](https://github.com/uber-research/ga-world-models/) | 2020 |
+| [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116) | Casale et al. | not yet | 2019 |
+| [Probabilistic Grammar-Based Neuroevolution for Physiological Signal Classification of Ventricular Tachycardia](https://e-tarjome.com/storage/panel/fileuploads/2019-09-24/1569304277_E13567-e-tarjome.pdf) | Wong et al. | not yet | 2019 |
 | [Evolutionary NetArchitecture Search for Deep Neural Networks Pruning](https://dl.acm.org/doi/abs/10.1145/3377713.3377739) | Shuxin Chen, et al. | not yet | 2019 |
 |[AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985) | Jeff Clune | not yet | 2019 |
 | [Differential Evolution for Neural Networks Optimization](https://www.researchgate.net/publication/338404662_Differential_Evolution_for_Neural_Networks_Optimization) | Marco Baioletti, et al. | not yet | Mathematics 2020 |
