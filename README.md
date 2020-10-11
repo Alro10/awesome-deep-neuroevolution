@@ -26,6 +26,7 @@ A good survey of Deep Reinforcement Learning: [A Brief Survey of Deep Reinforcem
 
 | Title | Authors | Code | Year |
 | ----- | ------- | -------- | ---- |
+| [Generating CNNs using Genetic Algorithm](https://nlp.fi.muni.cz/uiprojekt/ui/zachar_lev_martin2020/Documentation.pdf) | Lev Martin Zachar | not yet | 2020 |
 | [A Neuroevolutionary Approach to Evolve a Flexible Neural Controller for a Morphology Changing Quadruped Robot](https://www.duo.uio.no/bitstream/handle/10852/79650/1/wonho_lee_master_thesis.pdf) | -Wonho Lee | not yet | 2020 |
 | [Evolutionary Reinforcement Learning via Cooperative Coevolutionary Negatively Correlated Search](https://arxiv.org/pdf/2009.03603.pdf) | Hu Zhang, et al. | not yet | 2020 |
 | [CLAN: Continuous Learning using Asynchronous Neuroevolution on Commodity Edge Devices](https://arxiv.org/pdf/2008.11881.pdf) | Parth Mannan, et al. | not yet | 2020 |
